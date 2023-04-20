@@ -1,0 +1,1330 @@
+{
+    "id": "dydxprotocol",
+    "location": null,
+    "contributors": [
+        [
+            "melekes",
+            null
+        ],
+        [
+            "brapse",
+            "Berlin, Germany"
+        ],
+        [
+            "rigelrozanski",
+            "Virgo Super-Cluster, Universe "
+        ],
+        [
+            "mossid",
+            "Berlin"
+        ],
+        [
+            "Kenadia",
+            null
+        ],
+        [
+            "thantthet",
+            null
+        ],
+        [
+            "williambanfield",
+            "New York"
+        ],
+        [
+            "dnKaratzas",
+            "Greece"
+        ],
+        [
+            "iangmaia",
+            "Amsterdam, Netherlands"
+        ],
+        [
+            "StewartLynch",
+            "North Vancouver, BC, Canada"
+        ],
+        [
+            "greg-szabo",
+            null
+        ],
+        [
+            "technicallyty",
+            "Off-world"
+        ],
+        [
+            "jgimeno",
+            "Barcelona"
+        ],
+        [
+            "WALL-E",
+            "China"
+        ],
+        [
+            "valeriyvan",
+            "Berlin/Odessa"
+        ],
+        [
+            "odeke-em",
+            "Palo Alto, California"
+        ],
+        [
+            "fadeev",
+            null
+        ],
+        [
+            "jiajames",
+            null
+        ],
+        [
+            "zhangyelong",
+            "Shanghai"
+        ],
+        [
+            "lovincyrus",
+            "seattle"
+        ],
+        [
+            "amaurym",
+            null
+        ],
+        [
+            "pedrouid",
+            "Worldwide"
+        ],
+        [
+            "prettymuchbryce",
+            "New York City"
+        ],
+        [
+            "haifengxi",
+            "Shanghai"
+        ],
+        [
+            "cuong1112035",
+            null
+        ],
+        [
+            "Eric0625",
+            null
+        ],
+        [
+            "darrylyeo",
+            null
+        ],
+        [
+            "danielgindi",
+            "Israel"
+        ],
+        [
+            "spinks",
+            "Durham, UK"
+        ],
+        [
+            "heytulsiprasad",
+            "Bhubaneswar, India"
+        ],
+        [
+            "mpz-financial-com",
+            null
+        ],
+        [
+            "osianSmith",
+            "Swansea, Wales"
+        ],
+        [
+            "stokatyan",
+            "Los Angeles, CA"
+        ],
+        [
+            "Scalman",
+            "Sweden"
+        ],
+        [
+            "brockelmore",
+            null
+        ],
+        [
+            "anttyc",
+            null
+        ],
+        [
+            "RiccardoM",
+            null
+        ],
+        [
+            "michaellee8",
+            "Hong Kong"
+        ],
+        [
+            "kyle-dydx",
+            null
+        ],
+        [
+            "ancazamfir",
+            null
+        ],
+        [
+            "fedekunze",
+            "Berlin, Germany"
+        ],
+        [
+            "Xuefeng-Zhu",
+            "United States"
+        ],
+        [
+            "jaekwon",
+            "Western States of Cascadia"
+        ],
+        [
+            "steren",
+            "San Francisco"
+        ],
+        [
+            "lennonhe",
+            "Kunming"
+        ],
+        [
+            "cmwaters",
+            null
+        ],
+        [
+            "Lcsmarcal",
+            "S\u00e3o Paulo, Brasil"
+        ],
+        [
+            "liakakos",
+            null
+        ],
+        [
+            "chiahan1123",
+            null
+        ],
+        [
+            "gauthamzz",
+            "Remote"
+        ],
+        [
+            "xymtek",
+            "Castle Rock, CO"
+        ],
+        [
+            "b00f",
+            "Planet Earth"
+        ],
+        [
+            "zdumitru",
+            null
+        ],
+        [
+            "danielnordh",
+            "San Francisco"
+        ],
+        [
+            "yutianwu",
+            "Earth"
+        ],
+        [
+            "rebeloper",
+            "European Union"
+        ],
+        [
+            "motocodeltd",
+            null
+        ],
+        [
+            "aelam",
+            "Fukuoka"
+        ],
+        [
+            "yunkunrao",
+            null
+        ],
+        [
+            "timlind",
+            "Cape Town"
+        ],
+        [
+            "l-lemesev",
+            null
+        ],
+        [
+            "TejasQ",
+            "Berlin, DE"
+        ],
+        [
+            "mathewa6",
+            null
+        ],
+        [
+            "anilCSE",
+            "Hyderabad, India"
+        ],
+        [
+            "ricardohsd",
+            "Berlin"
+        ],
+        [
+            "johnqh",
+            null
+        ],
+        [
+            "ParkinWu",
+            null
+        ],
+        [
+            "Rubenfer",
+            "Spain"
+        ],
+        [
+            "macbesu",
+            null
+        ],
+        [
+            "nonsense",
+            null
+        ],
+        [
+            "AntiMoron",
+            "China"
+        ],
+        [
+            "roylee17",
+            "San Francisco Bay Area"
+        ],
+        [
+            "rkreutz-teamwork",
+            null
+        ],
+        [
+            "417-72KI",
+            "Tokyo, Japan"
+        ],
+        [
+            "EugeneChung",
+            "Seoul, Korea"
+        ],
+        [
+            "ValarDragon",
+            null
+        ],
+        [
+            "tessr",
+            "Berlin"
+        ],
+        [
+            "jsdu",
+            "Toronto"
+        ],
+        [
+            "creachadair",
+            "Washington, USA"
+        ],
+        [
+            "mappum",
+            "Austin, TX"
+        ],
+        [
+            "AndreasIgelCC",
+            null
+        ],
+        [
+            "dogemos",
+            "Seoul, Korea"
+        ],
+        [
+            "4np",
+            "The Netherlands"
+        ],
+        [
+            "michaelfig",
+            "Regina, SK, Canada"
+        ],
+        [
+            "potato04",
+            "Hangzhou"
+        ],
+        [
+            "zntfdr",
+            null
+        ],
+        [
+            "ggirotto",
+            null
+        ],
+        [
+            "ibrahimbhabay",
+            "Australia"
+        ],
+        [
+            "samweinberg23",
+            null
+        ],
+        [
+            "zramsay",
+            "Guelph, ON"
+        ],
+        [
+            "wjmelements",
+            null
+        ],
+        [
+            "rkreutz",
+            "Cork, Ireland"
+        ],
+        [
+            "gsora",
+            "Italy"
+        ],
+        [
+            "thanethomson",
+            "Toronto, Canada"
+        ],
+        [
+            "dependabot[bot]",
+            null
+        ],
+        [
+            "jobinsjohn",
+            "Abu Dhabi, United Technical Services"
+        ],
+        [
+            "spoo-bar",
+            "India"
+        ],
+        [
+            "SvenMuc",
+            "Osnabr\u00fcck"
+        ],
+        [
+            "Clee681",
+            "New York, NY"
+        ],
+        [
+            "vincentwschau",
+            null
+        ],
+        [
+            "milosevic",
+            null
+        ],
+        [
+            "tuxcanfly",
+            "Remote"
+        ],
+        [
+            "AAorris",
+            "Canada"
+        ],
+        [
+            "goolAdapter",
+            null
+        ],
+        [
+            "cuonglm",
+            "Hanoi"
+        ],
+        [
+            "webmaster128",
+            "localhost"
+        ],
+        [
+            "ackratos",
+            null
+        ],
+        [
+            "gamarin2",
+            null
+        ],
+        [
+            "dmcrodrigues",
+            "Portugal"
+        ],
+        [
+            "erikgrinaker",
+            "Oslo, Norway"
+        ],
+        [
+            "ryanchristo",
+            null
+        ],
+        [
+            "sunnya97",
+            "New York, NY"
+        ],
+        [
+            "Jumhyn",
+            "NYC/Palo Alto"
+        ],
+        [
+            "julienrbrt",
+            null
+        ],
+        [
+            "VincentSit",
+            null
+        ],
+        [
+            "tomc974",
+            "France"
+        ],
+        [
+            "richmcateer",
+            null
+        ],
+        [
+            "jeremyschlatter",
+            null
+        ],
+        [
+            "Duke-yi",
+            null
+        ],
+        [
+            "tychoish",
+            "Brooklyn, NY"
+        ],
+        [
+            "defranke",
+            null
+        ],
+        [
+            "franqueli",
+            null
+        ],
+        [
+            "npinto",
+            "Boston, MA"
+        ],
+        [
+            "facundomedica",
+            "Argentina"
+        ],
+        [
+            "kurdziel-k",
+            null
+        ],
+        [
+            "aaronc",
+            "Philadelphia"
+        ],
+        [
+            "jlcanale",
+            null
+        ],
+        [
+            "faboweb",
+            "Berlin"
+        ],
+        [
+            "Shivani912",
+            "Rajkot, India"
+        ],
+        [
+            "kevlubkcm",
+            null
+        ],
+        [
+            "svaishnavy",
+            null
+        ],
+        [
+            "cloudhead",
+            "Switzerland"
+        ],
+        [
+            "krbarnes",
+            "Ottawa, Ontario, Canada"
+        ],
+        [
+            "chuynadamas",
+            "Seattle"
+        ],
+        [
+            "colin-axner",
+            "stockholm"
+        ],
+        [
+            "leedsalex",
+            "Boca Raton, FL"
+        ],
+        [
+            "zmanian",
+            "United States"
+        ],
+        [
+            "andynog",
+            "Canada"
+        ],
+        [
+            "aan1092j",
+            "San Francisco"
+        ],
+        [
+            "shirleypyj",
+            null
+        ],
+        [
+            "muclemente",
+            null
+        ],
+        [
+            "leo150",
+            null
+        ],
+        [
+            "canapio",
+            "Busan, South Korea"
+        ],
+        [
+            "albertdonaire",
+            "Barcelona "
+        ],
+        [
+            "kzaher",
+            "Z\u00fcrich, Switzerland"
+        ],
+        [
+            "rmeissner",
+            null
+        ],
+        [
+            "jleni",
+            "Zug, Switzerland"
+        ],
+        [
+            "fpapado",
+            "Helsinki, Finland"
+        ],
+        [
+            "sabau",
+            "Dublin"
+        ],
+        [
+            "ruurd",
+            "NL - Den Burg - Texel "
+        ],
+        [
+            "everettwho",
+            "San Francisco, CA"
+        ],
+        [
+            "fdymylja",
+            "Novi Ligure, Alessandria (IT)"
+        ],
+        [
+            "roysc",
+            null
+        ],
+        [
+            "hschoenburg",
+            "Oakland CA"
+        ],
+        [
+            "Ewg777",
+            "Russia"
+        ],
+        [
+            "faddat",
+            "Hanoi, Vietnam"
+        ],
+        [
+            "yangasahi",
+            "tokyo"
+        ],
+        [
+            "petabytestorage",
+            null
+        ],
+        [
+            "macteo",
+            "Trento"
+        ],
+        [
+            "hjorthjort",
+            "Gothenburg, Sweden"
+        ],
+        [
+            "chengwenxi",
+            "Asia"
+        ],
+        [
+            "armanarutiunov",
+            "London"
+        ],
+        [
+            "Basistiy",
+            null
+        ],
+        [
+            "kargakis",
+            null
+        ],
+        [
+            "jjatie",
+            null
+        ],
+        [
+            "bivant",
+            "GMT+3"
+        ],
+        [
+            "valentinmatter",
+            null
+        ],
+        [
+            "tnachen",
+            "Seattle, WA"
+        ],
+        [
+            "cyberbono3",
+            null
+        ],
+        [
+            "clevinson",
+            "Los Angeles, CA"
+        ],
+        [
+            "NiklasKunkel",
+            "San Francisco, CA"
+        ],
+        [
+            "alexppxela",
+            "Paris"
+        ],
+        [
+            "maxim-levy",
+            null
+        ],
+        [
+            "simonbromberg",
+            "Canada"
+        ],
+        [
+            "rotcivegaf",
+            "No Where"
+        ],
+        [
+            "666tos",
+            "Rotterdam, Netherlands "
+        ],
+        [
+            "th3m477",
+            null
+        ],
+        [
+            "james-ray",
+            "Shanghai"
+        ],
+        [
+            "krzysztofzuraw",
+            "Wroc\u0142aw"
+        ],
+        [
+            "sahith-narahari",
+            "Hyderabad-India"
+        ],
+        [
+            "Christopher-Li",
+            null
+        ],
+        [
+            "ligi",
+            "Berlin, Earth, Milkiway"
+        ],
+        [
+            "icetan",
+            "Sweden"
+        ],
+        [
+            "allthatjazzleo",
+            "Hong Kong"
+        ],
+        [
+            "puneet2019",
+            null
+        ],
+        [
+            "mdyring",
+            null
+        ],
+        [
+            "guagualvcha",
+            null
+        ],
+        [
+            "carlo-",
+            "Stockholm, Sweden"
+        ],
+        [
+            "paul121",
+            "Spokane, Washington"
+        ],
+        [
+            "ohbargain",
+            null
+        ],
+        [
+            "wjacker",
+            "Shang Hai"
+        ],
+        [
+            "nuomi1",
+            "Shen Zhen"
+        ],
+        [
+            "bluele",
+            "Tokyo, Japan"
+        ],
+        [
+            "michaeldim",
+            null
+        ],
+        [
+            "xcthulhu",
+            null
+        ],
+        [
+            "aleem1314",
+            "Hyderabad, India"
+        ],
+        [
+            "BrendanChou",
+            "San Francisco"
+        ],
+        [
+            "hendrikhofstadt",
+            "Berlin"
+        ],
+        [
+            "akhilkumarpilli",
+            "Hyderabad, India"
+        ],
+        [
+            "martnst",
+            "Berlin"
+        ],
+        [
+            "phughes",
+            "Rochester, NY"
+        ],
+        [
+            "maciejtrybilo",
+            "London, UK"
+        ],
+        [
+            "yangyanqing",
+            "Shanghai, China"
+        ],
+        [
+            "Satoshi-Kusumoto",
+            null
+        ],
+        [
+            "lucas-dydx",
+            null
+        ],
+        [
+            "adrianbrink",
+            "Worldwide"
+        ],
+        [
+            "alessio",
+            "London, UK"
+        ],
+        [
+            "princesinha19",
+            "Earth"
+        ],
+        [
+            "mohpor",
+            "Calgary, AB"
+        ],
+        [
+            "sgc-code",
+            null
+        ],
+        [
+            "liuxuan30",
+            "Beijing"
+        ],
+        [
+            "gsk967",
+            "Hyderabad India"
+        ],
+        [
+            "ospr",
+            null
+        ],
+        [
+            "nylira",
+            null
+        ],
+        [
+            "JCMcLovin",
+            "Pasadena, CA"
+        ],
+        [
+            "davekaj",
+            "Toronto Canada"
+        ],
+        [
+            "barriebyron",
+            "Remote worker in sunny south Florida"
+        ],
+        [
+            "TooTallNate",
+            "San Francisco, CA"
+        ],
+        [
+            "fkneeland-figure",
+            null
+        ],
+        [
+            "blushi",
+            "Lyon, France"
+        ],
+        [
+            "IvoCrnkovic",
+            "New York, NY"
+        ],
+        [
+            "rynecheow",
+            "Singapore"
+        ],
+        [
+            "eyqs",
+            "Manhattan, NY"
+        ],
+        [
+            "sbellem",
+            null
+        ],
+        [
+            "odidev",
+            "India"
+        ],
+        [
+            "maxwolff",
+            "United States"
+        ],
+        [
+            "jaredvu",
+            "San Francisco"
+        ],
+        [
+            "mkubenka",
+            null
+        ],
+        [
+            "wtmoose",
+            "Austin, TX"
+        ],
+        [
+            "PhilJay",
+            "Austria"
+        ],
+        [
+            "AntonTheDev",
+            "New York, NY"
+        ],
+        [
+            "jekahy",
+            null
+        ],
+        [
+            "danil-lashin",
+            null
+        ],
+        [
+            "icecrystal23",
+            "Seattle, WA"
+        ],
+        [
+            "liamsi",
+            "UK / Germany / Switzerland"
+        ],
+        [
+            "caffix",
+            "New York, United States"
+        ],
+        [
+            "zaq1tomo",
+            "Japan"
+        ],
+        [
+            "racin",
+            null
+        ],
+        [
+            "cwgoes",
+            "\u03b3\u03b1\u03bb\u03b1\u03be\u03af\u03b1\u03c2 \u03ba\u03cd\u03ba\u03bb\u03bf\u03c2"
+        ],
+        [
+            "MarioIannotta",
+            null
+        ],
+        [
+            "YunSuk-Yeo",
+            null
+        ],
+        [
+            "kidinamoto01",
+            "shanghai,china"
+        ],
+        [
+            "PSalant726",
+            "Denver, CO"
+        ],
+        [
+            "PeterKaminski09",
+            "Nashville"
+        ],
+        [
+            "ebuchman",
+            "Guelph, Ontario"
+        ],
+        [
+            "antho1404",
+            null
+        ],
+        [
+            "robert-cronin",
+            null
+        ],
+        [
+            "hxzqlh",
+            "China"
+        ],
+        [
+            "DavidPiper94",
+            null
+        ],
+        [
+            "UberNick",
+            null
+        ],
+        [
+            "dreamer-zq",
+            "ShangHai"
+        ],
+        [
+            "mohanson",
+            null
+        ],
+        [
+            "defunctzombie",
+            null
+        ],
+        [
+            "JyHu",
+            "ChaoYang Beijing China"
+        ],
+        [
+            "pmairoldi",
+            "Montreal, Quebec"
+        ],
+        [
+            "thierryH91200",
+            "Bergerac (France)"
+        ],
+        [
+            "Stumble",
+            null
+        ],
+        [
+            "andr11111",
+            null
+        ],
+        [
+            "kocubinski",
+            "Austin, TX"
+        ],
+        [
+            "pereztechseattle",
+            null
+        ],
+        [
+            "needkane",
+            null
+        ],
+        [
+            "climber73",
+            "Ulyanovsk, Russia"
+        ],
+        [
+            "corollari",
+            "Singapore"
+        ],
+        [
+            "coltonlemmon",
+            "New York, New York"
+        ],
+        [
+            "UnitylChaos",
+            null
+        ],
+        [
+            "jackzampolin",
+            "CA, USA"
+        ],
+        [
+            "dwedul-figure",
+            null
+        ],
+        [
+            "mxk",
+            "Maryland, USA"
+        ],
+        [
+            "teddyding",
+            "San Francisco Bay Area"
+        ],
+        [
+            "michaelelliot",
+            "Australia"
+        ],
+        [
+            "psaradev",
+            null
+        ],
+        [
+            "charliestg",
+            null
+        ],
+        [
+            "hleb-albau",
+            "Lisbon,Portugal"
+        ],
+        [
+            "styfle",
+            "::1"
+        ],
+        [
+            "ruseinov",
+            "Rotterdam, Netherlands"
+        ],
+        [
+            "pixelspark",
+            "The Netherlands"
+        ],
+        [
+            "atheeshp",
+            "Hyderabad, India"
+        ],
+        [
+            "DarthMike",
+            "Barcelona, Spain"
+        ],
+        [
+            "mconintet",
+            null
+        ],
+        [
+            "daltonclaybrook",
+            "New York, NY"
+        ],
+        [
+            "okwme",
+            "Berlin"
+        ],
+        [
+            "yihuang",
+            "Shenzhen, China"
+        ],
+        [
+            "xiaoxiaff",
+            null
+        ],
+        [
+            "xla",
+            null
+        ],
+        [
+            "fransallen",
+            null
+        ],
+        [
+            "dstranz",
+            "Poland"
+        ],
+        [
+            "eeonevision",
+            null
+        ],
+        [
+            "mergify[bot]",
+            null
+        ],
+        [
+            "einsteinx2",
+            "Medell\u00edn, Colombia"
+        ],
+        [
+            "antstalepresh",
+            null
+        ],
+        [
+            "srmo",
+            null
+        ],
+        [
+            "KrzysiekJ",
+            "Warsaw, Poland"
+        ],
+        [
+            "dependabot-preview[bot]",
+            null
+        ],
+        [
+            "NagaTulasi",
+            "Hyderabad"
+        ],
+        [
+            "russellbstephens",
+            "NYC"
+        ],
+        [
+            "alexruperez",
+            "Madrid, Spain"
+        ],
+        [
+            "sDaniel",
+            null
+        ],
+        [
+            "bradyjoestar",
+            "ShangHai"
+        ],
+        [
+            "AntonioJuliano",
+            "San Francisco, CA"
+        ],
+        [
+            "marbar3778",
+            "E"
+        ],
+        [
+            "paul1893",
+            null
+        ],
+        [
+            "AdityaSripal",
+            null
+        ],
+        [
+            "kemchenj",
+            "Earth"
+        ],
+        [
+            "leoMehlig",
+            "Berlin, Germany"
+        ],
+        [
+            "justinlew",
+            null
+        ],
+        [
+            "alexanderbez",
+            "Brooklyn, NY"
+        ],
+        [
+            "robert-zaremba",
+            "Switzerland"
+        ],
+        [
+            "ethanfrey",
+            "Berlin, Germany"
+        ],
+        [
+            "mikebarkmin",
+            "Germany"
+        ],
+        [
+            "dongsam",
+            "South Korea"
+        ],
+        [
+            "wolfposd",
+            null
+        ],
+        [
+            "silasdavis",
+            "London, United Kingdom"
+        ],
+        [
+            "likhita-809",
+            null
+        ],
+        [
+            "yaruwangway",
+            null
+        ],
+        [
+            "tomtau",
+            "Hong Kong"
+        ],
+        [
+            "dauTT",
+            null
+        ],
+        [
+            "PrathyushaLakkireddy",
+            "Hyderabad, india"
+        ],
+        [
+            "esemeniuc",
+            null
+        ],
+        [
+            "artemiusmk",
+            null
+        ],
+        [
+            "CAPIStkidd",
+            null
+        ],
+        [
+            "mslipper",
+            "Palo Alto, CA"
+        ],
+        [
+            "hboon",
+            "Singapore"
+        ],
+        [
+            "olbartek",
+            "Polska"
+        ],
+        [
+            "igzrobertoestrada",
+            "Madrid"
+        ],
+        [
+            "JeancarloBarrios",
+            null
+        ],
+        [
+            "Yawning",
+            "Undisclosed Location"
+        ],
+        [
+            "ironman0x7b2",
+            "Manhattan, New York"
+        ],
+        [
+            "HaoyangLiu",
+            "Asian"
+        ],
+        [
+            "samrobbins85",
+            "Northumberland, UK"
+        ],
+        [
+            "charlymr",
+            "Luxembourg"
+        ],
+        [
+            "alexrepty",
+            "Bremen, Germany"
+        ]
+    ]
+}

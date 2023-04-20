@@ -1,0 +1,354 @@
+{
+    "id": "hop-protocol",
+    "location": "Earth",
+    "contributors": [
+        [
+            "mounibec",
+            "Portugal"
+        ],
+        [
+            "pascalvanhecke",
+            null
+        ],
+        [
+            "miguelmota",
+            "\u2601\ufe0f"
+        ],
+        [
+            "eccentricexit",
+            "Earth"
+        ],
+        [
+            "LufyCZ",
+            "Central Europe"
+        ],
+        [
+            "nadavhollander",
+            "Palo Alto, CA"
+        ],
+        [
+            "ncitron",
+            "NYC"
+        ],
+        [
+            "developerfred",
+            "London"
+        ],
+        [
+            "lukerhoads",
+            "Chicago, IL"
+        ],
+        [
+            "NoahZinsmeister",
+            null
+        ],
+        [
+            "Agusx1211",
+            null
+        ],
+        [
+            "ChristophSiegenthaler",
+            null
+        ],
+        [
+            "hwwhww",
+            null
+        ],
+        [
+            "ianlapham",
+            "New York"
+        ],
+        [
+            "JFrankfurt",
+            "Austin, TX"
+        ],
+        [
+            "tpmccallum",
+            "Queensland, Australia"
+        ],
+        [
+            "artistic709",
+            "Taiwan"
+        ],
+        [
+            "zhous",
+            "Shenzhen, China"
+        ],
+        [
+            "mikedemarais",
+            "New York, NY"
+        ],
+        [
+            "jclancy93",
+            "New York, NY"
+        ],
+        [
+            "hacktar",
+            "worldwide"
+        ],
+        [
+            "MicahZoltu",
+            "Philippines"
+        ],
+        [
+            "afmsavage",
+            "Brooklyn, NY"
+        ],
+        [
+            "knoshua",
+            null
+        ],
+        [
+            "akhila-raju",
+            "United States"
+        ],
+        [
+            "moodmosaic",
+            "Zl\u00edn, Czech Republic"
+        ],
+        [
+            "Leibniz137",
+            null
+        ],
+        [
+            "AlwaysBCoding",
+            null
+        ],
+        [
+            "OliverNChalk",
+            null
+        ],
+        [
+            "martinkrung",
+            "Switzerland"
+        ],
+        [
+            "jonathandiep",
+            null
+        ],
+        [
+            "dy",
+            "Montr\u00e9al / Saint-Petersburg"
+        ],
+        [
+            "dependabot[bot]",
+            null
+        ],
+        [
+            "CryptoCatVC",
+            null
+        ],
+        [
+            "hop-protocol-bot",
+            null
+        ],
+        [
+            "nicosampler",
+            "Argentina"
+        ],
+        [
+            "xiaotiandada",
+            "China"
+        ],
+        [
+            "gsgalloway",
+            "San Francisco, California"
+        ],
+        [
+            "paulrberg",
+            "Romania"
+        ],
+        [
+            "JonahGroendal",
+            null
+        ],
+        [
+            "anxolin",
+            null
+        ],
+        [
+            "gakonst",
+            "Thessaloniki, Greece"
+        ],
+        [
+            "brendanww",
+            null
+        ],
+        [
+            "haydenadams",
+            null
+        ],
+        [
+            "TomAFrench",
+            "London, UK"
+        ],
+        [
+            "mirshko",
+            "Berlin, Germany"
+        ],
+        [
+            "JayWelsh",
+            "Cape Town, South Africa"
+        ],
+        [
+            "kennyt",
+            "San Francisco, CA"
+        ],
+        [
+            "matthewlilley",
+            "UK"
+        ],
+        [
+            "pcowgill",
+            "the metaverse"
+        ],
+        [
+            "webeli",
+            null
+        ],
+        [
+            "AlexITC",
+            "Guadalajara, Mexico"
+        ],
+        [
+            "kangarang",
+            null
+        ],
+        [
+            "tranquang9a1",
+            "Vietname"
+        ],
+        [
+            "moodysalem",
+            "Miami, FL"
+        ],
+        [
+            "jiro-ono",
+            null
+        ],
+        [
+            "TopETH",
+            "Cambridge, ON, Canada"
+        ],
+        [
+            "tmlee",
+            "Kuala Lumpur, Malaysia"
+        ],
+        [
+            "lint-action",
+            null
+        ],
+        [
+            "taekyunggg",
+            "New York, NY"
+        ],
+        [
+            "boringcrypto",
+            null
+        ],
+        [
+            "cwhinfrey",
+            null
+        ],
+        [
+            "sambacha",
+            null
+        ],
+        [
+            "xuhcc",
+            null
+        ],
+        [
+            "dangerousfood",
+            "San Antonio, TX"
+        ],
+        [
+            "sdtsui",
+            "Vancouver, BC"
+        ],
+        [
+            "shanefontaine",
+            null
+        ],
+        [
+            "ramuta",
+            "Slovenia"
+        ],
+        [
+            "chikeichan",
+            "United States"
+        ],
+        [
+            "snkashis",
+            "NYC"
+        ],
+        [
+            "wjmelements",
+            null
+        ],
+        [
+            "hav-noms",
+            "New York"
+        ],
+        [
+            "jacko125",
+            null
+        ],
+        [
+            "ironsoul0",
+            "Astana, Kazakhstan"
+        ],
+        [
+            "gkucmierz",
+            null
+        ],
+        [
+            "jquesnelle",
+            "Michigan"
+        ],
+        [
+            "omakasebar",
+            "Ethereum"
+        ],
+        [
+            "brianmcmichael",
+            null
+        ],
+        [
+            "Xavier59",
+            null
+        ],
+        [
+            "octocat512",
+            null
+        ],
+        [
+            "rossbulat",
+            "London, United Kingdom"
+        ],
+        [
+            "vbstreetz",
+            "East Africa"
+        ],
+        [
+            "jackmpcollins",
+            "California"
+        ],
+        [
+            "sz-piotr",
+            "Warsaw, Poland"
+        ],
+        [
+            "palevoo",
+            "Moscow"
+        ],
+        [
+            "chillichelli",
+            "Amsterdam"
+        ],
+        [
+            "callil",
+            null
+        ]
+    ]
+}

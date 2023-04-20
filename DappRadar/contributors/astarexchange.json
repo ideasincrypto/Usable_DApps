@@ -1,0 +1,402 @@
+{
+    "id": "astarexchange",
+    "location": null,
+    "contributors": [
+        [
+            "jstncno",
+            "somewhere in the valley"
+        ],
+        [
+            "AlanVerbner",
+            "BA, Argentina"
+        ],
+        [
+            "spalladino",
+            "Buenos Aires, Argentina"
+        ],
+        [
+            "nikitosing",
+            null
+        ],
+        [
+            "ngotchac",
+            "Berlin, Germany"
+        ],
+        [
+            "cdesch",
+            "NJ"
+        ],
+        [
+            "k06a",
+            "Amsterdam, Netherlands"
+        ],
+        [
+            "istareatscreens",
+            null
+        ],
+        [
+            "jjant",
+            "London"
+        ],
+        [
+            "zemse",
+            "Mumbai, India"
+        ],
+        [
+            "fubhy",
+            "Vienna, Austria"
+        ],
+        [
+            "dmihal",
+            null
+        ],
+        [
+            "kangarang",
+            null
+        ],
+        [
+            "krzkaczor",
+            "meatspace"
+        ],
+        [
+            "clemlak",
+            null
+        ],
+        [
+            "develo-pera",
+            "Belgrade"
+        ],
+        [
+            "fabioDMFerreira",
+            "Portugal"
+        ],
+        [
+            "yhuard",
+            "France"
+        ],
+        [
+            "dependabot[bot]",
+            null
+        ],
+        [
+            "ControlCplusControlV",
+            null
+        ],
+        [
+            "swaylock",
+            "USA"
+        ],
+        [
+            "aspiers",
+            "London"
+        ],
+        [
+            "BananaNeil",
+            null
+        ],
+        [
+            "cryptoleadfoot",
+            null
+        ],
+        [
+            "paulrberg",
+            "Romania"
+        ],
+        [
+            "tranvictor",
+            "Ho Chi Minh city"
+        ],
+        [
+            "alcuadrado",
+            "Buenos Aires, Argentina"
+        ],
+        [
+            "wighawag",
+            "Dundee, Scotland"
+        ],
+        [
+            "sisco0",
+            null
+        ],
+        [
+            "kr1p70n1c",
+            null
+        ],
+        [
+            "jinyang1994",
+            "Dalian, China"
+        ],
+        [
+            "shuklaayush",
+            "New Delhi"
+        ],
+        [
+            "jacobrosenthal",
+            "#d#i#g#i#t#a#l#n#o#m#a#d"
+        ],
+        [
+            "dagumak",
+            "Currently in TYO"
+        ],
+        [
+            "antoinedc",
+            "Paris"
+        ],
+        [
+            "bstchow",
+            "Los Angeles"
+        ],
+        [
+            "ayushm2003",
+            null
+        ],
+        [
+            "pcowgill",
+            "the metaverse"
+        ],
+        [
+            "mds1",
+            null
+        ],
+        [
+            "RobertoSnap",
+            "Oslo, Norway"
+        ],
+        [
+            "astarexchange",
+            null
+        ],
+        [
+            "marinomaria",
+            "Buenos Aires, Argentina"
+        ],
+        [
+            "pcaversaccio",
+            "Berne, Switzerland"
+        ],
+        [
+            "vikas1188",
+            "New Delhi"
+        ],
+        [
+            "morgansliman",
+            "Florida"
+        ],
+        [
+            "RhnSharma",
+            "New Delhi,India"
+        ],
+        [
+            "ItsNickBarry",
+            null
+        ],
+        [
+            "itirabasso",
+            "Buenos Aires, Argentina"
+        ],
+        [
+            "martinlsanchez",
+            null
+        ],
+        [
+            "nottakis",
+            "Tokyo"
+        ],
+        [
+            "scnale",
+            null
+        ],
+        [
+            "sshmaxime",
+            "Montpellier, France"
+        ],
+        [
+            "anthonymartin",
+            null
+        ],
+        [
+            "duckception",
+            "Warsaw, Poland"
+        ],
+        [
+            "fvictorio",
+            "Italy"
+        ],
+        [
+            "cgewecke",
+            null
+        ],
+        [
+            "nick-staked",
+            null
+        ],
+        [
+            "naddison36",
+            "Sydney"
+        ],
+        [
+            "sz-piotr",
+            "Warsaw, Poland"
+        ],
+        [
+            "tmilar",
+            "Buenos Aires, Argentina"
+        ],
+        [
+            "gpetraglia",
+            null
+        ],
+        [
+            "feuGeneA",
+            "San Mateo, Alajuela, Costa Rica"
+        ],
+        [
+            "FabijanC",
+            null
+        ],
+        [
+            "nebojsa94",
+            "Serbia"
+        ],
+        [
+            "wolflo",
+            null
+        ],
+        [
+            "ryanio",
+            "Los Angeles"
+        ],
+        [
+            "github-actions[bot]",
+            null
+        ],
+        [
+            "0xGorilla",
+            null
+        ],
+        [
+            "transferAndCall",
+            null
+        ],
+        [
+            "BrknRobot",
+            null
+        ],
+        [
+            "viarnes",
+            "Buenos Aires, Argentina"
+        ],
+        [
+            "Bidon15",
+            "Odessa, Ukraine"
+        ],
+        [
+            "paco0x",
+            null
+        ],
+        [
+            "mattcan",
+            "Sunshine Coast, Canada"
+        ],
+        [
+            "TimonPeng",
+            "Singapore"
+        ],
+        [
+            "martriay",
+            "Buenos Aires"
+        ],
+        [
+            "BencicAndrej",
+            "Belgrade, Serbia"
+        ],
+        [
+            "asheliahut",
+            "Vancouver, Washington"
+        ],
+        [
+            "ryanycw",
+            null
+        ],
+        [
+            "passabilities",
+            "Austin, TX"
+        ],
+        [
+            "fzeoli",
+            "Buenos Aires, Argentina"
+        ],
+        [
+            "LogvinovLeon",
+            "Zurich"
+        ],
+        [
+            "panoplied",
+            "taiga"
+        ],
+        [
+            "tbtstl",
+            "iykyk"
+        ],
+        [
+            "fredlacs",
+            null
+        ],
+        [
+            "x0s0l",
+            null
+        ],
+        [
+            "amahanti",
+            "San Francisco, CA"
+        ],
+        [
+            "suhailkakar",
+            "Afghanistan \u2192 India "
+        ],
+        [
+            "kanej",
+            "Glasgow, Scotland"
+        ],
+        [
+            "Rishabhraghwendra18",
+            null
+        ],
+        [
+            "brunobar79",
+            "Brooklyn, NY"
+        ],
+        [
+            "samueldiethelm",
+            null
+        ],
+        [
+            "chriseth",
+            "Berlin"
+        ],
+        [
+            "asafsilman",
+            null
+        ],
+        [
+            "frangio",
+            null
+        ],
+        [
+            "0x3bfc",
+            "Berlin"
+        ],
+        [
+            "DavidIsa",
+            null
+        ],
+        [
+            "marcelomorgado",
+            "Portugal"
+        ],
+        [
+            "fulldecent",
+            "Philadelphia USA"
+        ]
+    ]
+}

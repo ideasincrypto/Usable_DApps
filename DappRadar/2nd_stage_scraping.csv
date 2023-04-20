@@ -1,0 +1,459 @@
+,Unnamed: 0,Name,Link,Github,Category,Blockchain
+0,0.0,PancakeSwap,https://dappradar.com/binance-smart-chain/defi/pancakeswap,https://github.com/pancakeswap,defi,binance-smart-chain
+1,1.0,AtomicAssets,https://dappradar.com/multichain/other/atomicassets,https://github.com/pinknetworkx/atomicassets-contracts,other,multichain
+2,2.0,AtomicMarket,https://dappradar.com/multichain/marketplaces/atomicmarket,https://github.com/pinknetworkx,marketplaces,multichain
+3,3.0,Axie Infinity,https://dappradar.com/multichain/games/axie-infinity,https://freakitties.github.io/axie/,games,multichain
+4,4.0,X World Games,https://dappradar.com/binance-smart-chain/games/x-world-games,https://github.com/XWorldGames,games,binance-smart-chain
+5,5.0,1inch Network,https://dappradar.com/multichain/defi/1inch-network,https://github.com/1inch,defi,multichain
+6,6.0,Uniswap V3,https://dappradar.com/multichain/exchanges/uniswap-v3,https://github.com/Uniswap,exchanges,multichain
+7,7.0,QuickSwap,https://dappradar.com/polygon/exchanges/quickswap,https://github.com/QuickSwap,exchanges,polygon
+8,8.0,Trader Joe,https://dappradar.com/avalanche/defi/trader-joe,https://github.com/traderjoe-xyz,defi,avalanche
+9,9.0,DeFi Kingdoms,https://dappradar.com/multichain/games/defi-kingdoms,https://github.com/DefiKingdoms,games,multichain
+10,10.0,MeanFi,https://dappradar.com/solana/defi/meanfi,https://github.com/mean-dao/mean-sdk,defi,solana
+11,11.0,Transit Swap,https://dappradar.com/multichain/exchanges/transit-swap,https://github.com/transit-finance,exchanges,multichain
+12,12.0,SecondLive,https://dappradar.com/binance-smart-chain/games/secondlive,https://github.com/SecondLive,games,binance-smart-chain
+13,13.0,ApeSwap,https://dappradar.com/multichain/defi/apeswap,https://github.com/apeswapfinance,defi,multichain
+14,14.0,Aavegotchi,https://dappradar.com/polygon/games/aavegotchi,https://github.com/aavegotchi,games,polygon
+15,15.0,Snook,https://dappradar.com/polygon/games/snook,https://github.com/playsnook/onchain,games,polygon
+16,16.0,AES Finance,https://dappradar.com/polygon/defi/aes-finance,https://github.com/aestandard,defi,polygon
+17,17.0,ApolloX,https://dappradar.com/multichain/defi/apollox,https://github.com/apollox-finance/apollox-finance-api-docs/blob/master/apollox-finance-api.md,defi,multichain
+18,18.0,tofuNFT,https://dappradar.com/multichain/marketplaces/tofunft,https://github.com/scv-finance,marketplaces,multichain
+19,19.0,Ethereum Name Service,https://dappradar.com/ethereum/other/ethereum-name-service,https://github.com/ensdomains,other,ethereum
+20,20.0,KlimaDao,https://dappradar.com/polygon/social/klimadao,https://github.com/KlimaDAO,social,polygon
+21,21.0,Bitcoin HODL Club,https://dappradar.com/binance-smart-chain/high-risk/bitcoin-hodl-club,https://github.com/BitcoinHC/SmartContracts,high-risk,binance-smart-chain
+22,22.0,Everscale DePools and Staking,https://dappradar.com/everscale/defi/everscale-depools-and-staking,https://github.com/tonlabs,defi,everscale
+23,23.0,Aave,https://dappradar.com/optimism/defi/aave,https://github.com/aave,defi,optimism
+24,24.0,Hic et Nunc,https://dappradar.com/tezos/marketplaces/hic-et-nunc,https://github.com/hicetnunc2000,marketplaces,tezos
+25,25.0,Beethoven X,https://dappradar.com/fantom/defi/beethoven-x,https://github.com/beethovenxfi,defi,fantom
+26,26.0,Position Exchange,https://dappradar.com/binance-smart-chain/defi/position-exchange,https://github.com/PositionExchange,defi,binance-smart-chain
+27,27.0,Tranquil Finance,https://dappradar.com/harmony/defi/tranquil-finance,https://github.com/tranquil-finance,defi,harmony
+28,28.0,Balancer,https://dappradar.com/multichain/exchanges/balancer,https://github.com/balancer-labs/,exchanges,multichain
+29,29.0,Teia,https://dappradar.com/tezos/marketplaces/teia,https://github.com/teia-community/,marketplaces,tezos
+30,30.0,HOP Protocol,https://dappradar.com/multichain/exchanges/hop-protocol,https://github.com/hop-protocol,exchanges,multichain
+31,31.0,StellaSwap,https://dappradar.com/moonbeam/exchanges/stellaswap,https://github.com/stellaswap,exchanges,moonbeam
+32,32.0,Across,https://dappradar.com/multichain/other/across,https://github.com/across-protocol,other,multichain
+33,33.0,sudoswap,https://dappradar.com/ethereum/marketplaces/sudoswap,https://github.com/sudoswap,marketplaces,ethereum
+34,34.0,Ref Finance,https://dappradar.com/near/exchanges/ref-finance,https://github.com/ref-finance,exchanges,near
+35,35.0,Aave V2,https://dappradar.com/ethereum/defi/aave-v2,https://github.com/aave/aave-protocol,defi,ethereum
+36,36.0,BabySwap,https://dappradar.com/binance-smart-chain/defi/babyswap,https://github.com/babyswap,defi,binance-smart-chain
+37,37.0,Venus Protocol,https://dappradar.com/binance-smart-chain/defi/venus-protocol,https://github.com/VenusProtocol,defi,binance-smart-chain
+38,38.0,LIDO,https://dappradar.com/multichain/defi/lido,https://github.com/lidofinance,defi,multichain
+39,39.0,CelerNetwork,https://dappradar.com/multichain/defi/celernetwork,https://github.com/celer-network,defi,multichain
+40,40.0,Pangolin Exchange,https://dappradar.com/avalanche/defi/pangolin-exchange,https://github.com/pangolindex,defi,avalanche
+41,41.0,Elk Finance,https://dappradar.com/multichain/defi/elk-finance,https://github.com/elkfinance,defi,multichain
+42,42.0,SpiritSwap,https://dappradar.com/fantom/defi/spiritswap,https://github.com/Layer3Org/spiritswap-core/,defi,fantom
+43,43.0,SpookySwap,https://dappradar.com/fantom/exchanges/spookyswap,https://github.com/SpookySwap,exchanges,fantom
+44,44.0,Pizza Game,https://dappradar.com/avalanche/games/pizza-game,https://github.com/pizzacapital/pizza_game_contracts,games,avalanche
+45,45.0,Nested,https://dappradar.com/multichain/defi/nested,https://github.com/NestedFi/nested-core-lego,defi,multichain
+46,46.0,Libero Financial,https://dappradar.com/binance-smart-chain/defi/libero-financial,https://github.com/liberofinancial/LiberoFinancial,defi,binance-smart-chain
+47,47.0,Curve,https://dappradar.com/multichain/defi/curve,https://github.com/curvefi,defi,multichain
+48,48.0,CronaSwap,https://dappradar.com/cronos/defi/cronaswap,https://github.com/cronaswap,defi,cronos
+49,49.0,AirCash,https://dappradar.com/binance-smart-chain/defi/aircash,https://github.com/Aircoin-official,defi,binance-smart-chain
+50,50.0,Autofarm,https://dappradar.com/multichain/defi/autofarm,https://github.com/autofarm-network/autofarmV2,defi,multichain
+51,51.0,GoodGhosting,https://dappradar.com/multichain/defi/goodghosting,https://github.com/Good-Ghosting,defi,multichain
+52,52.0,Million on Mars,https://dappradar.com/wax/games/million-on-mars,https://github.com/MillionOnMars,games,wax
+53,53.0,Beefy Finance,https://dappradar.com/multichain/defi/beefy-finance,https://github.com/beefyfinance,defi,multichain
+54,54.0,Beamswap,https://dappradar.com/moonbeam/exchanges/beamswap,https://github.com/BeamSwap,exchanges,moonbeam
+55,55.0,TTSwap,https://dappradar.com/thundercore/exchanges/ttswap,https://github.com/thundercore,exchanges,thundercore
+56,56.0,EVER Surf,https://dappradar.com/everscale/defi/ever-surf,https://github.com/tonlabs/Surf-Releases,defi,everscale
+57,57.0,SimpleAssets,https://dappradar.com/multichain/other/simpleassets,https://github.com/CryptoLions/SimpleAssets,other,multichain
+58,58.0,Tap Fantasy,https://dappradar.com/multichain/games/tap-fantasy,https://github.com/tapfantasy/,games,multichain
+59,59.0,ArthSwap,https://dappradar.com/astar/defi/arthswap,https://github.com/ArthSwap,defi,astar
+60,60.0,EverRise,https://dappradar.com/multichain/defi/everrise,https://github.com/everrise-ecosystem,defi,multichain
+61,61.0,Benqi,https://dappradar.com/avalanche/defi/benqi,https://github.com/Benqi-fi,defi,avalanche
+62,62.0,GiftDapp,https://dappradar.com/multichain/social/giftdapp,https://github.com/rigelprotocol,social,multichain
+63,63.0,CUBE,https://dappradar.com/binance-smart-chain/marketplaces/cube,https://github.com/itamgames,marketplaces,binance-smart-chain
+64,64.0,PEAKDEFI,https://dappradar.com/binance-smart-chain/defi/peakdefi,https://github.com/peakdefi,defi,binance-smart-chain
+65,65.0,ClaimSwap,https://dappradar.com/klaytn/defi/claimswap,https://github.com/claimswap,defi,klaytn
+66,66.0,TT Farm,https://dappradar.com/thundercore/defi/tt-farm,https://github.com/HenLisa,defi,thundercore
+67,67.0,KAIDEX,https://dappradar.com/kardiachain/defi/kaidex,https://github.com/kardia-solutions/kaidex-core,defi,kardiachain
+68,68.0,Clash Dome,https://dappradar.com/wax/games/clash-dome,https://github.com/ClashDome,games,wax
+69,69.0,Alpaca Finance,https://dappradar.com/binance-smart-chain/defi/alpaca-finance,https://github.com/alpaca-finance,defi,binance-smart-chain
+70,70.0,PRDT,https://dappradar.com/multichain/gambling/prdt,https://github.com/PRDTfinance,gambling,multichain
+71,71.0,CherrySwap,https://dappradar.com/oec/defi/cherryswap,https://github.com/cherryswapnet,defi,oec
+72,72.0,Burrow,https://dappradar.com/near/defi/burrow,https://github.com/NearDeFi/,defi,near
+73,73.0,Octus Bridge,https://dappradar.com/multichain/defi/octus-bridge,https://github.com/broxus/octusbridge-contracts,defi,multichain
+74,74.0,Mones,https://dappradar.com/binance-smart-chain/games/mones,https://github.com/mones-nfts/mones-nfts,games,binance-smart-chain
+75,75.0,Versum,https://dappradar.com/tezos/marketplaces/versum,https://github.com/versumstudios,marketplaces,tezos
+76,76.0,XY Finance,https://dappradar.com/multichain/exchanges/xy-finance,https://github.com/XY-Finance,exchanges,multichain
+77,77.0,Crypto Shots,https://dappradar.com/wax/games/crypto-shots,https://github.com/Crypto-Shots,games,wax
+78,78.0,ALEX,https://dappradar.com/stacks/defi/alex,https://github.com/alexgo-io,defi,stacks
+79,79.0,impactMarket,https://dappradar.com/celo/other/impactmarket,https://github.com/impactMarket,other,celo
+80,80.0,ISTEP,https://dappradar.com/binance-smart-chain/games/istep,https://github.com/istepofficial/token-smartcontract,games,binance-smart-chain
+81,81.0,Solarflare,https://dappradar.com/moonbeam/exchanges/solarflare,https://github.com/solarbeamio,exchanges,moonbeam
+82,82.0,ComethSwap,https://dappradar.com/polygon/exchanges/comethswap,https://github.com/cometh-game/comethswap,exchanges,polygon
+83,83.0,KLAYMETA,https://dappradar.com/klaytn/games/klaymeta,https://github.com/KlayMeta,games,klaytn
+84,84.0,Larix,https://dappradar.com/solana/defi/larix,https://github.com/ProjectLarix,defi,solana
+85,85.0,LEONICORN SWAP,https://dappradar.com/multichain/defi/leonicorn-swap,https://github.com/Leonicornswap,defi,multichain
+86,86.0,Meta Pool,https://dappradar.com/near/defi/meta-pool,https://github.com/Narwallets/meta-pool,defi,near
+87,87.0,Compound,https://dappradar.com/ethereum/defi/compound,https://github.com/compound-finance/compound-protocol,defi,ethereum
+88,88.0,Aldrin,https://dappradar.com/solana/defi/aldrin,https://github.com/aldrin-exchange,defi,solana
+89,89.0,Cometh,https://dappradar.com/polygon/games/cometh,https://github.com/cometh-game,games,polygon
+90,90.0,WigoSwap,https://dappradar.com/fantom/defi/wigoswap,https://github.com/wigoswap,defi,fantom
+91,91.0,Folks Finance,https://dappradar.com/algorand/defi/folks-finance,https://github.com/Folks-Finance,defi,algorand
+92,92.0,Mirror,https://dappradar.com/multichain/defi/mirror,https://github.com/Mirror-Protocol/mirror-web-app,defi,multichain
+93,93.0,OpenLeverage,https://dappradar.com/multichain/defi/openleverage,https://github.com/OpenLeverageDev/openleverage-contracts,defi,multichain
+94,94.0,Acorn Finance,https://dappradar.com/thundercore/exchanges/acorn-finance,https://github.com/acorn-finance,exchanges,thundercore
+95,95.0,WardenSwap,https://dappradar.com/multichain/defi/wardenswap,https://github.com/WardenSwap,defi,multichain
+96,96.0,BetSwirl,https://dappradar.com/multichain/gambling/betswirl,https://github.com/BetSwirl,gambling,multichain
+97,97.0,FlatQube,https://dappradar.com/everscale/defi/flatqube,https://github.com/broxus/ton-dex,defi,everscale
+98,98.0,9D NFT,https://dappradar.com/binance-smart-chain/games/9d-nft,https://github.com/COGI-Technology/cogi_contracts,games,binance-smart-chain
+99,99.0,dYdX,https://dappradar.com/ethereum/defi/dydx,https://github.com/dydxprotocol,defi,ethereum
+100,100.0,Mento-fi,https://dappradar.com/celo/exchanges/mento-fi,https://github.com/celo-tools/mento-fi,exchanges,celo
+101,101.0,zeroswap,https://dappradar.com/multichain/exchanges/zeroswap,https://github.com/ZeroSwapLabs,exchanges,multichain
+102,102.0,Depth,https://dappradar.com/multichain/defi/depth,https://github.com/depthfinance/contract,defi,multichain
+103,103.0,Celestial,https://dappradar.com/multichain/games/celestial,https://github.com/CeltGame,games,multichain
+104,104.0,Planbetter,https://dappradar.com/stacks/defi/planbetter,https://github.com/planbetter,defi,stacks
+105,105.0,NiobFinance,https://dappradar.com/binance-smart-chain/defi/niobfinance,https://github.com/niobfinance,defi,binance-smart-chain
+106,106.0,Fuse staking,https://dappradar.com/fuse/defi/fuse-staking,https://github.com/fuseio,defi,fuse
+107,107.0,Sturdy Finance,https://dappradar.com/fantom/defi/sturdy-finance,https://github.com/sturdyfi,defi,fantom
+108,108.0,JulSwap,https://dappradar.com/binance-smart-chain/defi/julswap,https://github.com/justliquidity,defi,binance-smart-chain
+109,109.0,Popcorn,https://dappradar.com/multichain/defi/popcorn,https://github.com/popcorndao/,defi,multichain
+110,110.0,Kalmar,https://dappradar.com/binance-smart-chain/defi/kalmar,https://github.com/kalmar-io,defi,binance-smart-chain
+111,111.0,OpenSwap,https://dappradar.com/harmony/defi/openswap,https://github.com/TheOpenFinanceProject,defi,harmony
+112,112.0,Jetswap,https://dappradar.com/multichain/exchanges/jetswap,https://github.com/jetfuelfinance,exchanges,multichain
+113,113.0,Tetu,https://dappradar.com/polygon/defi/tetu,https://github.com/tetu-io,defi,polygon
+114,114.0,Ram Protocol,https://dappradar.com/thundercore/defi/ram-protocol,https://github.com/ram-protocol,defi,thundercore
+115,115.0,Flexa,https://dappradar.com/ethereum/defi/flexa,https://github.com/amptoken,defi,ethereum
+116,116.0,PlotX,https://dappradar.com/polygon/gambling/plotx,https://github.com/plotx/smart-contracts,gambling,polygon
+117,117.0,Candle Genie,https://dappradar.com/multichain/gambling/candle-genie,https://github.com/candlegenie,gambling,multichain
+118,118.0,Avault,https://dappradar.com/astar/defi/avault,https://github.com/AVaultFinance,defi,astar
+119,119.0,Planet,https://dappradar.com/binance-smart-chain/defi/planet,https://github.com/planetfinance,defi,binance-smart-chain
+120,120.0,ARIES FINANCIAL V2,https://dappradar.com/binance-smart-chain/defi/aries-financial-v2,https://github.com/ariesfinancial/Aries-Financial,defi,binance-smart-chain
+121,121.0,Paçoca,https://dappradar.com/binance-smart-chain/defi/paçoca,https://github.com/Pacoca-io,defi,binance-smart-chain
+122,122.0,Hector Finance,https://dappradar.com/fantom/defi/hector-finance,https://github.com/Hector-DAO,defi,fantom
+123,123.0,LZ Swap,https://dappradar.com/binance-smart-chain/exchanges/lz-swap,https://github.com/launchzone,exchanges,binance-smart-chain
+124,124.0,Magician,https://dappradar.com/polygon/exchanges/magician,https://github.com/MagicBallSwap/core,exchanges,polygon
+125,125.0,Bake Pizza Miner,https://dappradar.com/binance-smart-chain/high-risk/bake-pizza-miner,https://github.com/BakePizzaIO/contracts,high-risk,binance-smart-chain
+126,126.0,FATExDAO,https://dappradar.com/harmony/defi/fatexdao,https://github.com/orgs/FATEx-DAO/repositories,defi,harmony
+127,127.0,Polycat Finance,https://dappradar.com/polygon/defi/polycat-finance,https://github.com/polycatfi,defi,polygon
+128,128.0,QuipuSwap,https://dappradar.com/tezos/exchanges/quipuswap,https://github.com/madfish-solutions/quipuswap-core,exchanges,tezos
+129,129.0,UMA,https://dappradar.com/multichain/defi/uma,https://github.com/umaprotocol,defi,multichain
+130,130.0,BakerySwap,https://dappradar.com/binance-smart-chain/defi/bakeryswap,https://github.com/BakeryProject,defi,binance-smart-chain
+131,131.0,Alpha Homora,https://dappradar.com/multichain/defi/alpha-homora,https://github.com/AlphaFinanceLab/alphahomora,defi,multichain
+132,132.0,Cryptocookies,https://dappradar.com/polygon/games/cryptocookies,https://github.com/cryptocookiesdao,games,polygon
+133,133.0,VoltSwap,https://dappradar.com/theta/defi/voltswap,https://github.com/meterio/voltswap/tree/voltswap,defi,theta
+134,134.0,Vortex,https://dappradar.com/tezos/defi/vortex,https://github.com/Smartlinkhub/Smartlink-Escrow,defi,tezos
+135,135.0,Annex Finance,https://dappradar.com/multichain/defi/annex-finance,https://github.com/annexfinance/annex-protocol,defi,multichain
+136,136.0,TEN Finance,https://dappradar.com/binance-smart-chain/defi/ten-finance,https://github.com/tenfinance,defi,binance-smart-chain
+137,137.0,Astar Exchange,https://dappradar.com/astar/exchanges/astar-exchange,https://github.com/astarexchange,exchanges,astar
+138,138.0,World Bet Club,https://dappradar.com/binance-smart-chain/gambling/world-bet-club,https://github.com/worldbetdev/contract,gambling,binance-smart-chain
+139,139.0,FarmersOnlyFi,https://dappradar.com/harmony/defi/farmersonlyfi,https://github.com/FarmersOnlyFi,defi,harmony
+140,140.0,Okse Card,https://dappradar.com/multichain/defi/okse-card,https://github.com/okseiohttps://github.com/okseio,defi,multichain
+141,141.0,Euler Finance,https://dappradar.com/ethereum/defi/euler-finance,https://github.com/orgs/euler-xyz,defi,ethereum
+142,142.0,Destiny World,https://dappradar.com/telos/other/destiny-world,https://github.com/destinydevteam,other,telos
+143,143.0,Dinosaur Eggs,https://dappradar.com/binance-smart-chain/marketplaces/dinosaur-eggs,https://github.com/dinosaur-eggs/core,marketplaces,binance-smart-chain
+144,144.0,PolyCub,https://dappradar.com/polygon/defi/polycub,https://github.com/CubFinance,defi,polygon
+145,145.0,Thetanuts,https://dappradar.com/multichain/defi/thetanuts,https://github.com/Theta-Nuts,defi,multichain
+146,146.0,BecoSwap,https://dappradar.com/kardiachain/defi/becoswap,https://github.com/becoswap,defi,kardiachain
+147,147.0,Alchemix,https://dappradar.com/ethereum/defi/alchemix,https://github.com/alchemix-finance,defi,ethereum
+148,148.0,Huckleberry,https://dappradar.com/moonriver/defi/huckleberry,https://github.com/HuckleberryDEX,defi,moonriver
+149,149.0,MiningTycoon V2,https://dappradar.com/multichain/games/miningtycoon-v2,https://github.com/nextypefinance/miningtycoon,games,multichain
+150,150.0,PolkaBridge,https://dappradar.com/ethereum/defi/polkabridge,https://github.com/cyclese96,defi,ethereum
+151,151.0,Algem,https://dappradar.com/astar/defi/algem,https://github.com/AlgemDeFi,defi,astar
+152,152.0,DarkCrypto Finance,https://dappradar.com/cronos/defi/darkcrypto-finance,https://github.com/darkcryptofi,defi,cronos
+153,153.0,HunnySwap,https://dappradar.com/avalanche/defi/hunnyswap,https://github.com/hunnyfinance,defi,avalanche
+154,154.0,MoonBeans,https://dappradar.com/multichain/marketplaces/moonbeans,https://github.com/moonbeans-org,marketplaces,multichain
+155,155.0,Muuu Finance,https://dappradar.com/astar/defi/muuu-finance,https://github.com/muuu-finance,defi,astar
+156,156.0,Swapr,https://dappradar.com/ethereum/exchanges/swapr,https://github.com/levelkdev/dxswap-dapp,exchanges,ethereum
+157,157.0,Nacho Finance,https://dappradar.com/polygon/defi/nacho-finance,https://github.com/0xalmanac/nacho-contracts,defi,polygon
+158,158.0,Wolfible,https://dappradar.com/multichain/collectibles/wolfible,https://github.com/wolfilandmetaverse,collectibles,multichain
+159,159.0,deBridge,https://dappradar.com/multichain/defi/debridge,https://github.com/debridge-finance/,defi,multichain
+160,160.0,Lizard,https://dappradar.com/oasis/exchanges/lizard,https://github.com/Lizard-Exchange/,exchanges,oasis
+161,161.0,Mobius Money,https://dappradar.com/celo/defi/mobius-money,https://github.com/mobiusAMM,defi,celo
+162,162.0,Stake DAO,https://dappradar.com/ethereum/defi/stake-dao,https://github.com/StakeDAO,defi,ethereum
+163,163.0,BerryClub,https://dappradar.com/near/defi/berryclub,https://github.com/evgenykuzyakov/berryclub,defi,near
+164,164.0,HODL,https://dappradar.com/binance-smart-chain/defi/hodl,https://github.com/hodl-token/HODL,defi,binance-smart-chain
+165,165.0,youves,https://dappradar.com/tezos/defi/youves,https://github.com/youves-com,defi,tezos
+166,166.0,BambooDeFi,https://dappradar.com/binance-smart-chain/defi/bamboodefi,https://github.com/bamboo-defi,defi,binance-smart-chain
+167,167.0,DeFiner,https://dappradar.com/multichain/defi/definer,https://github.com/DeFinerOrg,defi,multichain
+168,168.0,Fei Protocol,https://dappradar.com/ethereum/defi/fei-protocol,https://github.com/fei-protocol/fei-protocol-core,defi,ethereum
+169,169.0,Galactic Arena,https://dappradar.com/binance-smart-chain/games/galactic-arena,https://github.com/thenftverse/smartcontracts,games,binance-smart-chain
+170,170.0,Pancake Bunny,https://dappradar.com/binance-smart-chain/defi/pancake-bunny,https://github.com/PancakeBunny-finance/Bunny,defi,binance-smart-chain
+171,171.0,Entity,https://dappradar.com/binance-smart-chain/defi/entity,https://github.com/entitycapital,defi,binance-smart-chain
+172,172.0,MicroPETS,https://dappradar.com/binance-smart-chain/defi/micropets,https://github.com/MicroPetsbsc,defi,binance-smart-chain
+173,173.0,Rune,https://dappradar.com/multichain/games/rune,https://github.com/RuneMetaverse,games,multichain
+174,174.0,VIMM,https://dappradar.com/hive/social/vimm,https://github.com/chirenonhive/VimmTV,social,hive
+175,175.0,Elpis Battle,https://dappradar.com/binance-smart-chain/games/elpis-battle,https://github.com/ElpisGames,games,binance-smart-chain
+176,176.0,Hundred Finance,https://dappradar.com/multichain/defi/hundred-finance,https://github.com/hundred-finance,defi,multichain
+177,177.0,Skyward Finance,https://dappradar.com/near/defi/skyward-finance,https://github.com/skyward-finance/,defi,near
+178,178.0,Unite Finance,https://dappradar.com/harmony/defi/unite-finance,https://github.com/unitefinance/unite-contracts,defi,harmony
+179,179.0,ZoomSwap V2,https://dappradar.com/iotex/defi/zoomswap-v2,https://github.com/zoomswap,defi,iotex
+180,180.0,CRYPTO BOMBER,https://dappradar.com/polygon/defi/crypto-bomber,https://github.com/C-Bomber,defi,polygon
+181,181.0,Tranchess Protocol,https://dappradar.com/binance-smart-chain/defi/tranchess-protocol,https://github.com/tranchess,defi,binance-smart-chain
+182,182.0,HappyLand,https://dappradar.com/binance-smart-chain/games/happyland,https://github.com/happyland-finance,games,binance-smart-chain
+183,183.0,Minotaur Money,https://dappradar.com/cronos/defi/minotaur-money,https://github.com/MinotaurMoney/,defi,cronos
+184,184.0,AuraSwap,https://dappradar.com/polygon/exchanges/auraswap,https://github.com/AuraSwap-DEX,exchanges,polygon
+185,185.0,Boid,https://dappradar.com/multichain/other/boid,https://github.com/boid-com,other,multichain
+186,186.0,DuneSwap,https://dappradar.com/oasis/defi/duneswap,https://github.com/duneswap,defi,oasis
+187,187.0,RugZombie,https://dappradar.com/binance-smart-chain/collectibles/rugzombie,https://github.com/Rug-Zombie,collectibles,binance-smart-chain
+188,188.0,XCarnival,https://dappradar.com/multichain/defi/xcarnival,https://github.com/xcarnival,defi,multichain
+189,189.0,DAPP Network,https://dappradar.com/eos/other/dapp-network,https://github.com/liquidapps-io,other,eos
+190,190.0,GemKeeper Finance,https://dappradar.com/oasis/defi/gemkeeper-finance,https://github.com/GemKeeperDEV/GemKeeperFinance,defi,oasis
+191,191.0,CougarSwap,https://dappradar.com/multichain/defi/cougarswap,https://github.com/cougarswap,defi,multichain
+192,192.0,OmniDex,https://dappradar.com/telosevm/defi/omnidex,https://github.com/OmniDexFinance,defi,telosevm
+193,193.0,Quartz Defi,https://dappradar.com/multichain/defi/quartz-defi,https://github.com/quartz-defi/,defi,multichain
+194,194.0,RenVM,https://dappradar.com/multichain/defi/renvm,https://github.com/renproject,defi,multichain
+195,195.0,Sirius Finance,https://dappradar.com/astar/defi/sirius-finance,https://github.com/SiriusFinance,defi,astar
+196,196.0,T-Starter,https://dappradar.com/telos/defi/t-starter,https://github.com/T-Starter,defi,telos
+197,197.0,FlameDeFi,https://dappradar.com/tezos/defi/flamedefi,https://github.com/flamedefi,defi,tezos
+198,198.0,Float,https://dappradar.com/multichain/defi/float,https://github.com/Float-Capital,defi,multichain
+199,199.0,NEST FI,https://dappradar.com/multichain/defi/nest-fi,https://github.com/NEST-Protocol,defi,multichain
+200,200.0,Tetra,https://dappradar.com/multichain/other/tetra,https://github.com/orbs-network,other,multichain
+201,201.0,InsurAce Protocol,https://dappradar.com/multichain/defi/insurace-protocol,https://github.com/InsurAce-Protocol,defi,multichain
+202,202.0,Moonpot,https://dappradar.com/binance-smart-chain/defi/moonpot,https://github.com/moonpotdev,defi,binance-smart-chain
+203,203.0,pSTAKE Finance,https://dappradar.com/binance-smart-chain/defi/pstake-finance,https://github.com/persistenceOne/stkBNB-contracts,defi,binance-smart-chain
+204,204.0,Uniswap V1,https://dappradar.com/ethereum/exchanges/uniswap-v1,https://github.com/Uniswap,exchanges,ethereum
+205,205.0,XDAO,https://dappradar.com/multichain/defi/xdao,https://github.com/xDAO-App,defi,multichain
+206,206.0,xWIN Finance,https://dappradar.com/binance-smart-chain/defi/xwin-finance,https://github.com/xwinfinance/xWinBSC,defi,binance-smart-chain
+207,207.0,Dragon Master,https://dappradar.com/multichain/games/dragon-master,https://github.com/dragonmasterco/dragonmaster,games,multichain
+208,208.0,ForTube,https://dappradar.com/multichain/defi/fortube,https://github.com/thefortube,defi,multichain
+209,209.0,Gravity Finance,https://dappradar.com/polygon/defi/gravity-finance,https://github.com/inthenextversion,defi,polygon
+210,210.0,Helix,https://dappradar.com/ethereum/defi/helix,https://github.com/helixgeometry,defi,ethereum
+211,211.0,Juster,https://dappradar.com/tezos/defi/juster,https://github.com/juster-finance,defi,tezos
+212,212.0,Relay Chain,https://dappradar.com/multichain/defi/relay-chain,https://github.com/RelayChain,defi,multichain
+213,213.0,Saddle Finance,https://dappradar.com/ethereum/defi/saddle-finance,https://github.com/saddle-finance,defi,ethereum
+214,214.0,Versa,https://dappradar.com/astar/exchanges/versa,https://github.com/versa-finance-dev,exchanges,astar
+215,215.0,WISE,https://dappradar.com/ethereum/defi/wise,https://github.com/wise-foundation,defi,ethereum
+216,216.0,Yup,https://dappradar.com/multichain/social/yup,https://github.com/Yup-io,social,multichain
+217,217.0,AngeL Nodes,https://dappradar.com/binance-smart-chain/high-risk/angel-nodes,https://github.com/NemesisDao/AngeL-Nodes,high-risk,binance-smart-chain
+218,218.0,beempy,https://dappradar.com/hive/other/beempy,https://github.com/holgern/beem,other,hive
+219,219.0,Qubit Finance,https://dappradar.com/binance-smart-chain/defi/qubit-finance,https://github.com/PancakeBunny-finance/qubit-finance,defi,binance-smart-chain
+220,220.0,Sablier,https://dappradar.com/ethereum/defi/sablier,https://github.com/sablierhq,defi,ethereum
+221,221.0,Weave,https://dappradar.com/binance-smart-chain/defi/weave,https://github.com/Weave-fi/,defi,binance-smart-chain
+222,222.0,CORE Vault,https://dappradar.com/ethereum/defi/core-vault,https://github.com/cVault-finance,defi,ethereum
+223,223.0,Dante Finance,https://dappradar.com/fantom/defi/dante-finance,https://github.com/dante-finance,defi,fantom
+224,224.0,Devil Finance,https://dappradar.com/fantom/defi/devil-finance,https://github.com/devilfinanceio/devil-official-contracts,defi,fantom
+225,225.0,Evervoid by Gravis Finance,https://dappradar.com/multichain/games/evervoid-by-gravis-finance,https://github.com/gravis-finance,games,multichain
+226,226.0,Helena Financial,https://dappradar.com/binance-smart-chain/defi/helena-financial,https://github.com/NemesisDao/Helena-Financial,defi,binance-smart-chain
+227,227.0,MacaronSwap,https://dappradar.com/binance-smart-chain/defi/macaronswap,https://github.com/macaronswap,defi,binance-smart-chain
+228,228.0,Pandaswap,https://dappradar.com/binance-smart-chain/exchanges/pandaswap,https://github.com/baofinance,exchanges,binance-smart-chain
+229,229.0,Definix,https://dappradar.com/multichain/defi/definix,https://github.com/thesixnetwork/business/commit/d25d2f1826e3d7d906cd263aad18b25359006fe2#diff-c88a6e6208b57a39b59dd8e570a66708cb15fc902b6c680cc6c2d1abc30b034b,defi,multichain
+230,230.0,Infinity Crypto,https://dappradar.com/binance-smart-chain/defi/infinity-crypto,https://github.com/InfinityWallet,defi,binance-smart-chain
+231,231.0,Neopin,https://dappradar.com/klaytn/defi/neopin,https://github.com/Neopin/Contracts,defi,klaytn
+232,232.0,O3 Swap,https://dappradar.com/binance-smart-chain/defi/o3-swap,https://github.com/O3Labs,defi,binance-smart-chain
+233,233.0,Polkamarkets,https://dappradar.com/multichain/defi/polkamarkets,https://github.com/Polkamarkets,defi,multichain
+234,234.0,Singular Farm,https://dappradar.com/multichain/defi/singular-farm,https://github.com/singularfarm,defi,multichain
+235,235.0,Solana Multisender,https://dappradar.com/solana/other/solana-multisender,https://github.com/CoinTool-App,other,solana
+236,236.0,Chainmonsters,https://dappradar.com/flow/games/chainmonsters,https://github.com/bsidegames,games,flow
+237,237.0,DRIVENswap,https://dappradar.com/binance-smart-chain/defi/drivenswap,https://github.com/DRIVENecosystem,defi,binance-smart-chain
+238,238.0,Etherspot,https://dappradar.com/multichain/other/etherspot,https://github.com/etherspot/etherspot-sdk,other,multichain
+239,239.0,Instadapp,https://dappradar.com/multichain/defi/instadapp,https://github.com/instadapp,defi,multichain
+240,240.0,Magic Land Finance,https://dappradar.com/iotex/defi/magic-land-finance,https://github.com/magiclandfinance,defi,iotex
+241,241.0,SuperLauncher,https://dappradar.com/binance-smart-chain/defi/superlauncher,https://github.com/SuperLauncher/SmartContracts,defi,binance-smart-chain
+242,242.0,USDFI,https://dappradar.com/multichain/defi/usdfi,https://github.com/USDFI,defi,multichain
+243,243.0,Valkyrio Game,https://dappradar.com/binance-smart-chain/games/valkyrio-game,https://github.com/PlayValkyrio/smart_contract_v2,games,binance-smart-chain
+244,244.0,Yupana Finance,https://dappradar.com/tezos/defi/yupana-finance,https://github.com/madfish-solutions/yupana-contracts,defi,tezos
+245,245.0,Alchemist Reward Program,https://dappradar.com/multichain/defi/alchemist-reward-program,https://github.com/alchemistcoin,defi,multichain
+246,246.0,Cowswap,https://dappradar.com/binance-smart-chain/defi/cowswap,https://github.com/cowswap,defi,binance-smart-chain
+247,247.0,Darkside Finance,https://dappradar.com/polygon/defi/darkside-finance,https://github.com/LithiumSwapTech,defi,polygon
+248,248.0,Deri Protocol,https://dappradar.com/binance-smart-chain/exchanges/deri-protocol,https://github.com/deri-protocol,exchanges,binance-smart-chain
+249,249.0,DungeonSwap,https://dappradar.com/binance-smart-chain/games/dungeonswap,https://github.com/dungeonswap/,games,binance-smart-chain
+250,250.0,ETHA Lend,https://dappradar.com/polygon/defi/etha-lend,https://github.com/ethalend,defi,polygon
+251,251.0,Frax Finance,https://dappradar.com/multichain/defi/frax-finance,https://github.com/FraxFinance,defi,multichain
+252,252.0,JellyBeanBag,https://dappradar.com/multichain/high-risk/jellybeanbag,https://github.com/cyberminter,high-risk,multichain
+253,253.0,Kalata,https://dappradar.com/binance-smart-chain/defi/kalata,https://github.com/kalata-io/kalata-contracts,defi,binance-smart-chain
+254,254.0,Planet Sandbox,https://dappradar.com/binance-smart-chain/games/planet-sandbox,https://github.com/TheMinders/planetsandbox-token-contract,games,binance-smart-chain
+255,255.0,Samusky Token,https://dappradar.com/solana/defi/samusky-token,https://github.com/samuskyio,defi,solana
+256,256.0,Swamp Finance,https://dappradar.com/multichain/defi/swamp-finance,https://github.com/swamp-finance,defi,multichain
+257,257.0,TendieSwap,https://dappradar.com/binance-smart-chain/defi/tendieswap,https://github.com/tendieswap,defi,binance-smart-chain
+258,258.0,Treasure Chess,https://dappradar.com/polygon/collectibles/treasure-chess,https://github.com/treasure-chess,collectibles,polygon
+259,259.0,Treasureland,https://dappradar.com/multichain/marketplaces/treasureland,https://github.com/orgs/treasureland-market,marketplaces,multichain
+260,260.0,WaultSwap,https://dappradar.com/multichain/exchanges/waultswap,https://github.com/WaultFinance,exchanges,multichain
+261,261.0,Adamant,https://dappradar.com/polygon/defi/adamant,https://github.com/eepdev/frax-stake,defi,polygon
+262,262.0,ApeRocket,https://dappradar.com/binance-smart-chain/defi/aperocket,https://github.com/ApeRocket-Labs,defi,binance-smart-chain
+263,263.0,Avastars,https://dappradar.com/ethereum/collectibles/avastars,https://github.com/Dapp-Wizards/Avastars-Contracts,collectibles,ethereum
+264,264.0,BakedBTC,https://dappradar.com/binance-smart-chain/high-risk/bakedbtc,https://github.com/BakedBTC,high-risk,binance-smart-chain
+265,265.0,CashCow Protocol,https://dappradar.com/binance-smart-chain/defi/cashcow-protocol,https://github.com/CashCowProject,defi,binance-smart-chain
+266,266.0,DDDX Protocol,https://dappradar.com/binance-smart-chain/defi/dddx-protocol,https://github.com/DDDXio,defi,binance-smart-chain
+267,267.0,DeFi Yield Protocol,https://dappradar.com/multichain/defi/defi-yield-protocol,https://github.com/dypfinance,defi,multichain
+268,268.0,DonkSwap,https://dappradar.com/binance-smart-chain/exchanges/donkswap,https://github.com/JimmyStax90/DonkSwap,exchanges,binance-smart-chain
+269,269.0,Evolution Land,https://dappradar.com/multichain/games/evolution-land,https://github.com/evolutionlandorg/,games,multichain
+270,270.0,Fabwelt,https://dappradar.com/multichain/games/fabwelt,https://github.com/Fabwelt,games,multichain
+271,271.0,FishFight,https://dappradar.com/harmony/games/fishfight,https://github.com/TrustlessTeam,games,harmony
+272,272.0,Idle,https://dappradar.com/ethereum/defi/idle,https://github.com/Idle-Labs/,defi,ethereum
+273,273.0,LNSwap,https://dappradar.com/stacks/defi/lnswap,https://github.com/lnswap,defi,stacks
+274,274.0,Lootex,https://dappradar.com/multichain/marketplaces/lootex,https://github.com/lootex-io/,marketplaces,multichain
+275,275.0,Mint Club,https://dappradar.com/binance-smart-chain/social/mint-club,https://github.com/Steemhunt/mint.club-contract,social,binance-smart-chain
+276,276.0,PantherSwap,https://dappradar.com/binance-smart-chain/defi/pantherswap,https://github.com/pantherswap,defi,binance-smart-chain
+277,277.0,POB,https://dappradar.com/ethereum/collectibles/pob,https://github.com/proofofbeauty,collectibles,ethereum
+278,278.0,Rainbow Bridge,https://dappradar.com/near/other/rainbow-bridge,https://twitter.com/nearprotocolhttps://github.com/near/rainbow-bridge,other,near
+279,279.0,RingFi,https://dappradar.com/binance-smart-chain/defi/ringfi,https://github.com/ringfi/,defi,binance-smart-chain
+280,280.0,Solana Farm,https://dappradar.com/binance-smart-chain/defi/solana-farm,https://github.com/Solanafarm/Solanafarm,defi,binance-smart-chain
+281,281.0,Strike Finance,https://dappradar.com/ethereum/defi/strike-finance,https://github.com/StrikeFinance,defi,ethereum
+282,282.0,TitaniumChain,https://dappradar.com/binance-smart-chain/high-risk/titaniumchain,https://github.com/TitaniumChain,high-risk,binance-smart-chain
+283,283.0,Unicly,https://dappradar.com/ethereum/exchanges/unicly,https://github.com/uniclyNFT,exchanges,ethereum
+284,284.0,YVS Finance,https://dappradar.com/binance-smart-chain/defi/yvs-finance,https://github.com/yvs-finance/yvs-protocol,defi,binance-smart-chain
+285,285.0,ZCore Finance,https://dappradar.com/binance-smart-chain/defi/zcore-finance,https://github.com/zcore-coin/,defi,binance-smart-chain
+286,286.0,Zunami Protocol,https://dappradar.com/ethereum/defi/zunami-protocol,https://github.com/ZunamiLab/ZunamiProtocol,defi,ethereum
+287,287.0,BloctoBay,https://dappradar.com/flow/marketplaces/bloctobay,https://github.com/portto,marketplaces,flow
+288,288.0,BSC Miner,https://dappradar.com/binance-smart-chain/high-risk/bsc-miner,https://github.com/BSCMINER,high-risk,binance-smart-chain
+289,289.0,Cykura,https://dappradar.com/solana/defi/cykura,https://github.com/cykura,defi,solana
+290,290.0,Ellipsis Finance,https://dappradar.com/binance-smart-chain/defi/ellipsis-finance,https://github.com/ellipsis-finance,defi,binance-smart-chain
+291,291.0,FATExFi,https://dappradar.com/polygon/defi/fatexfi,https://github.com/FATEx-DAO/,defi,polygon
+292,292.0,KokomoSwap,https://dappradar.com/binance-smart-chain/defi/kokomoswap,https://github.com/KokomoSwap,defi,binance-smart-chain
+293,293.0,LatteSwap,https://dappradar.com/binance-smart-chain/defi/latteswap,https://github.com/latteswap-official,defi,binance-smart-chain
+294,294.0,LazyMint,https://dappradar.com/binance-smart-chain/defi/lazymint,https://github.com/LazyMint,defi,binance-smart-chain
+295,295.0,MetaRevo,https://dappradar.com/binance-smart-chain/high-risk/metarevo,https://github.com/metarevolution,high-risk,binance-smart-chain
+296,296.0,NewBFarm,https://dappradar.com/binance-smart-chain/defi/newbfarm,https://github.com/NewBFarm,defi,binance-smart-chain
+297,297.0,ONEverse,https://dappradar.com/harmony/games/oneverse,https://github.com/oneverseone,games,harmony
+298,298.0,Orbit,https://dappradar.com/polygon/defi/orbit,https://github.com/FiveElementsLabs/orbit-defi,defi,polygon
+299,299.0,PERI Finance,https://dappradar.com/polygon/defi/peri-finance,https://github.com/perifinance,defi,polygon
+300,300.0,Phantom Chain,https://dappradar.com/binance-smart-chain/high-risk/phantom-chain,https://github.com/PhantomChainBSC,high-risk,binance-smart-chain
+301,301.0,PhoenixDefi Finance,https://dappradar.com/binance-smart-chain/defi/phoenixdefi-finance,https://github.com/phoenixdefi/PhoenixDefiContract,defi,binance-smart-chain
+302,302.0,Reflexer Labs,https://dappradar.com/ethereum/defi/reflexer-labs,https://github.com/reflexer-labs,defi,ethereum
+303,303.0,SCREAM,https://dappradar.com/fantom/defi/scream,https://github.com/scream-finance,defi,fantom
+304,304.0,SILO,https://dappradar.com/binance-smart-chain/defi/silo,https://github.com/br34p/,defi,binance-smart-chain
+305,305.0,UniLend Finance,https://dappradar.com/multichain/defi/unilend-finance,https://github.com/UniLend,defi,multichain
+306,306.0,United Farmers X,https://dappradar.com/binance-smart-chain/high-risk/united-farmers-x,https://github.com/united-farmers-finance,high-risk,binance-smart-chain
+307,307.0,Vesper,https://dappradar.com/ethereum/defi/vesper,https://github.com/vesperfi,defi,ethereum
+308,308.0,Augmented Finance,https://dappradar.com/multichain/defi/augmented-finance,https://github.com/augmented-finance/augmented-finance-protocol,defi,multichain
+309,309.0,Barbershop Finance,https://dappradar.com/polygon/defi/barbershop-finance,https://github.com/BarbershopFinance,defi,polygon
+310,310.0,BRUTUS TOKEN,https://dappradar.com/tron/high-risk/brutus-token,https://github.com/brutustoken/,high-risk,tron
+311,311.0,Channels,https://dappradar.com/multichain/defi/channels,https://github.com/ChannelsFinance,defi,multichain
+312,312.0,CheeseSwap,https://dappradar.com/binance-smart-chain/exchanges/cheeseswap,https://github.com/cheeseswapbsc/,exchanges,binance-smart-chain
+313,313.0,Chocomint,https://dappradar.com/multichain/other/chocomint,https://github.com/chocomintapp,other,multichain
+314,314.0,CryptoSwap,https://dappradar.com/binance-smart-chain/defi/cryptoswap,https://github.com/CryptoDevelopmentServices,defi,binance-smart-chain
+315,315.0,Cycle Finance,https://dappradar.com/avalanche/defi/cycle-finance,https://github.com/CycleProtocol,defi,avalanche
+316,316.0,Golff,https://dappradar.com/binance-smart-chain/defi/golff,https://github.com/golfffinance/,defi,binance-smart-chain
+317,317.0,HealthFi App,https://dappradar.com/binance-smart-chain/games/healthfi-app,https://github.com/HealthFi-App,games,binance-smart-chain
+318,318.0,Mooniswap,https://dappradar.com/ethereum/exchanges/mooniswap,https://github.com/CryptoManiacsZone/mooniswap,exchanges,ethereum
+319,319.0,MoonRat Finance,https://dappradar.com/binance-smart-chain/defi/moonrat-finance,https://github.com/MoonRat-Finance,defi,binance-smart-chain
+320,320.0,MStation,https://dappradar.com/binance-smart-chain/games/mstation,https://github.com/MStation-io/token-contract,games,binance-smart-chain
+321,321.0,NFTMart,https://dappradar.com/hive/marketplaces/nftmart,https://github.com/NFTMart,marketplaces,hive
+322,322.0,Night Life Crypto,https://dappradar.com/binance-smart-chain/games/night-life-crypto,https://github.com/Night-Life-Crypto,games,binance-smart-chain
+323,323.0,Polyroll,https://dappradar.com/polygon/gambling/polyroll,https://github.com/polyroll,gambling,polygon
+324,324.0,Punk Domain,https://dappradar.com/multichain/other/punk-domain,https://github.com/punk-domains,other,multichain
+325,325.0,Rabbit Finance,https://dappradar.com/binance-smart-chain/defi/rabbit-finance,https://github.com/RabbitFinanceProtocol,defi,binance-smart-chain
+326,326.0,Shield,https://dappradar.com/binance-smart-chain/defi/shield,https://github.com/ShieldDAODev/shield-contracts-v1,defi,binance-smart-chain
+327,327.0,Singularity,https://dappradar.com/binance-smart-chain/games/singularity,https://github.com/Singularitysgly,games,binance-smart-chain
+328,328.0,Slavi Dapp,https://dappradar.com/binance-smart-chain/defi/slavi-dapp,https://github.com/slvlabs,defi,binance-smart-chain
+329,329.0,SLM Games,https://dappradar.com/multichain/gambling/slm-games,https://github.com/SLMGames,gambling,multichain
+330,330.0,SMXSwap,https://dappradar.com/cronos/defi/smxswap,https://github.com/Stronghands-Money,defi,cronos
+331,331.0,TamaDROID NFT Game,https://dappradar.com/binance-smart-chain/games/tamadroid-nft-game,https://github.com/droidcoin-bsc/droid,games,binance-smart-chain
+332,332.0,Trust Domains,https://dappradar.com/binance-smart-chain/other/trust-domains,https://github.com/trustdomains,other,binance-smart-chain
+333,333.0,USTX DEX,https://dappradar.com/tron/defi/ustx-dex,https://github.com/ustx/ustx-dex,defi,tron
+334,334.0,VEKTOR,https://dappradar.com/binance-smart-chain/social/vektor,https://github.com/VEKTOR-VEKTOR,social,binance-smart-chain
+335,335.0,WhaleSwap,https://dappradar.com/binance-smart-chain/exchanges/whaleswap,https://github.com/whale-swap,exchanges,binance-smart-chain
+336,336.0,ZilChill,https://dappradar.com/zilliqa/gambling/zilchill,https://github.com/RedChillies-Core,gambling,zilliqa
+337,,ADAO,https://dappradar.com/astar/other/adao,https://github.com/ADAOTOP,other,astar
+338,,ArenaSwap,https://dappradar.com/binance-smart-chain/games/arenaswap,https://github.com/arenaswap,games,binance-smart-chain
+339,,Bankroll Network,https://dappradar.com/tron/other/bankroll-network,https://github.com/bankrollnetwork,other,tron
+340,,Bauhaus Blocks,https://dappradar.com/ethereum/collectibles/bauhaus-blocks,https://github.com/patrn-me/,collectibles,ethereum
+341,,BSCswap,https://dappradar.com/binance-smart-chain/exchanges/bscswap,https://github.com/bscswap/contracts,exchanges,binance-smart-chain
+342,,Capital DEX,https://dappradar.com/ethereum/exchanges/capital-dex,https://github.com/CurioTeam,exchanges,ethereum
+343,,Carv,https://dappradar.com/multichain/games/carv,https://github.com/carv-protocol,games,multichain
+344,,CheeseCakeSwap,https://dappradar.com/binance-smart-chain/defi/cheesecakeswap,https://github.com/cheesecakeswap/,defi,binance-smart-chain
+345,,ChimpySwap,https://dappradar.com/binance-smart-chain/defi/chimpyswap,https://github.com/chimpyswap,defi,binance-smart-chain
+346,,Curiumverse,https://dappradar.com/binance-smart-chain/other/curiumverse,https://github.com/CuriumVerse,other,binance-smart-chain
+347,,DEGO Finance,https://dappradar.com/ethereum/defi/dego-finance,https://github.com/dego-labs,defi,ethereum
+348,,Dopple Finance,https://dappradar.com/binance-smart-chain/exchanges/dopple-finance,https://github.com/DoppleFinance/dopple-contract,exchanges,binance-smart-chain
+349,,Exon Center,https://dappradar.com/tron/exchanges/exon-center,https://github.com/exon-center,exchanges,tron
+350,,FantomStarter,https://dappradar.com/multichain/other/fantomstarter,https://github.com/fantomstarter,other,multichain
+351,,FDoge Finance,https://dappradar.com/fantom/defi/fdoge-finance,https://github.com/FdogeFinance,defi,fantom
+352,,FunBeast,https://dappradar.com/astar/defi/funbeast,https://github.com/FunBeast,defi,astar
+353,,FungFi,https://dappradar.com/polygon/defi/fungfi,https://github.com/fungfi,defi,polygon
+354,,GhostMarket,https://dappradar.com/multichain/marketplaces/ghostmarket,https://github.com/onblockio,marketplaces,multichain
+355,,Gigaverse,https://dappradar.com/binance-smart-chain/high-risk/gigaverse,https://github.com/GigaverseOfficial,high-risk,binance-smart-chain
+356,,Index Coop,https://dappradar.com/ethereum/defi/index-coop,https://github.com/IndexCoop,defi,ethereum
+357,,Kromatika Finance,https://dappradar.com/multichain/defi/kromatika-finance,https://github.com/Kromatika-Finance,defi,multichain
+358,,Kunai DeFi,https://dappradar.com/polygon/defi/kunai-defi,https://github.com/dojofarm/kunai-contracts-polygon,defi,polygon
+359,,KwikSwap Protocol,https://dappradar.com/ethereum/exchanges/kwikswap-protocol,https://github.com/kwikswap,exchanges,ethereum
+360,,LimeSwap,https://dappradar.com/binance-smart-chain/defi/limeswap,https://github.com/limeswapio,defi,binance-smart-chain
+361,,LlamaSwap,https://dappradar.com/binance-smart-chain/defi/llamaswap,https://github.com/Llamafinance,defi,binance-smart-chain
+362,,MetaLove,https://dappradar.com/binance-smart-chain/social/metalove,https://github.com/MetaLoveBsc/MetaLoveBsc,social,binance-smart-chain
+363,,MetaPay,https://dappradar.com/binance-smart-chain/other/metapay,https://github.com/metapayglobal,other,binance-smart-chain
+364,,Nexus Mutual,https://dappradar.com/ethereum/defi/nexus-mutual,https://github.com/NexusMutual,defi,ethereum
+365,,Noodle Master,https://dappradar.com/cronos/high-risk/noodle-master,https://github.com/Coinsult/solidity/blob/main/NoodlefinanceAudit.pdf,high-risk,cronos
+366,,PancakeFork Finance,https://dappradar.com/binance-smart-chain/defi/pancakefork-finance,https://github.com/pancakefork,defi,binance-smart-chain
+367,,RAI Finance,https://dappradar.com/multichain/defi/rai-finance,https://github.com/RaiFinance,defi,multichain
+368,,RAMP DEFI,https://dappradar.com/multichain/defi/ramp-defi,https://github.com/RAMP-DEFI,defi,multichain
+369,,RottenSwap,https://dappradar.com/ethereum/defi/rottenswap,https://github.com/rottenswap,defi,ethereum
+370,,SatisFinance,https://dappradar.com/binance-smart-chain/defi/satisfinance,https://github.com/RenovJ/SatisFi-contracts,defi,binance-smart-chain
+371,,SIL FINANCE,https://dappradar.com/multichain/defi/sil-finance,https://github.com/sil-finance,defi,multichain
+372,,Snowball,https://dappradar.com/avalanche/defi/snowball,https://github.com/Snowball-Finance,defi,avalanche
+373,,Stone Temple Binance,https://dappradar.com/binance-smart-chain/defi/stone-temple-binance,https://github.com/LithiumSwapTech,defi,binance-smart-chain
+374,,Swerve Finance,https://dappradar.com/ethereum/defi/swerve-finance,https://github.com/SwerveFinance,defi,ethereum
+375,,TradingTigers Swap,https://dappradar.com/binance-smart-chain/exchanges/tradingtigers-swap,https://github.com/trading-tiger,exchanges,binance-smart-chain
+376,,TripleFi,https://dappradar.com/polygon/defi/triplefi,https://github.com/triplefi,defi,polygon
+377,,TrustFi,https://dappradar.com/multichain/defi/trustfi,https://github.com/TrustFiNetwork,defi,multichain
+378,,Tutti Frutti,https://dappradar.com/binance-smart-chain/defi/tutti-frutti,https://github.com/TuttiFruttiFinance/tff-protocol,defi,binance-smart-chain
+379,,Typhoon Network,https://dappradar.com/binance-smart-chain/defi/typhoon-network,https://github.com/typhoonnetwork,defi,binance-smart-chain
+380,,Value DeFi,https://dappradar.com/binance-smart-chain/defi/value-defi,https://github.com/valuedefi,defi,binance-smart-chain
+381,,Venera Swap,https://dappradar.com/binance-smart-chain/defi/venera-swap,https://github.com/VeneraFinance,defi,binance-smart-chain
+382,,Viking Swap,https://dappradar.com/binance-smart-chain/defi/viking-swap,https://github.com/VikingDefi/,defi,binance-smart-chain
+383,,Wrap Protocol,https://dappradar.com/tezos/defi/wrap-protocol,https://github.com/bender-labs,defi,tezos
+384,,Zombie Farm,https://dappradar.com/binance-smart-chain/defi/zombie-farm,https://github.com/Zombiesfarm,defi,binance-smart-chain
+385,,Age of Tanks,https://dappradar.com/binance-smart-chain/games/age-of-tanks,https://github.com/DEFINATION-PTE-LTD/ageoftanks.git,games,binance-smart-chain
+386,,Alchemy DAO,https://dappradar.com/ethereum/collectibles/alchemy-dao,https://github.com/AlchemyDAO,collectibles,ethereum
+387,,Alkemi Earn,https://dappradar.com/ethereum/defi/alkemi-earn,https://github.com/AlkemiNetwork,defi,ethereum
+388,,Alpaca City,https://dappradar.com/ethereum/defi/alpaca-city,https://github.com/AlpacaCity,defi,ethereum
+389,,BarnBridge,https://dappradar.com/ethereum/defi/barnbridge,https://github.com/BarnBridge,defi,ethereum
+390,,BatSwap Finance,https://dappradar.com/polygon/defi/batswap-finance,https://github.com/batswapdotfinance,defi,polygon
+391,,Bee Sender,https://dappradar.com/multichain/other/bee-sender,https://github.com/AlgoNetwork,other,multichain
+392,,Bend DAO,https://dappradar.com/ethereum/defi/bend-dao,https://github.com/BendDAO,defi,ethereum
+393,,BenSwap,https://dappradar.com/binance-smart-chain/exchanges/benswap,https://github.com/BenTokenFinance,exchanges,binance-smart-chain
+394,,BitBlocks Finance,https://dappradar.com/binance-smart-chain/defi/bitblocks-finance,https://github.com/BitBlocksProject,defi,binance-smart-chain
+395,,Bitcratic,https://dappradar.com/ethereum/exchanges/bitcratic,https://github.com/Bitcratic,exchanges,ethereum
+396,,BondAppetit,https://dappradar.com/ethereum/defi/bondappetit,https://github.com/bondappetit,defi,ethereum
+397,,Buffalo Swap,https://dappradar.com/binance-smart-chain/defi/buffalo-swap,https://github.com/buffaloswap,defi,binance-smart-chain
+398,,BullRun Finance,https://dappradar.com/fantom/defi/bullrun-finance,https://github.com/BullRunFinance/contracts,defi,fantom
+399,,CBD CASH,https://dappradar.com/binance-smart-chain/defi/cbd-cash,https://github.com/cbdcash/cbd-contracts,defi,binance-smart-chain
+400,,CheersLand,https://dappradar.com/binance-smart-chain/games/cheersland,https://github.com/cheersland,games,binance-smart-chain
+401,,CHIKIN,https://dappradar.com/solana/collectibles/chikin,https://github.com/ChikinDeveloper,collectibles,solana
+402,,Clipper DEX,https://dappradar.com/multichain/defi/clipper-dex,https://github.com/shipyard-software,defi,multichain
+403,,Clock 24,https://dappradar.com/binance-smart-chain/high-risk/clock-24,https://github.com/clockx24,high-risk,binance-smart-chain
+404,,Cocos-BCX,https://dappradar.com/binance-smart-chain/games/cocos-bcx,https://github.com/cocos-bcx,games,binance-smart-chain
+405,,CoPuppy,https://dappradar.com/binance-smart-chain/games/copuppy,https://github.com/copuppy/CP,games,binance-smart-chain
+406,,Counterstake,https://dappradar.com/ethereum/defi/counterstake,https://github.com/byteball/counterstake-bridge,defi,ethereum
+407,,Cross Pool,https://dappradar.com/binance-smart-chain/defi/cross-pool,https://github.com/hotcrosscom/audits,defi,binance-smart-chain
+408,,Crypto Pirates,https://dappradar.com/binance-smart-chain/games/crypto-pirates,https://github.com/Cryptopiratesapp/Crypto-Pirates,games,binance-smart-chain
+409,,Crypto Space War,https://dappradar.com/binance-smart-chain/games/crypto-space-war,https://github.com/Crypto-Space-War,games,binance-smart-chain
+410,,CryptoSkulls,https://dappradar.com/ethereum/collectibles/cryptoskulls,https://github.com/alexsslayer/crypto-skull,collectibles,ethereum
+411,,Cubie,https://dappradar.com/tron/collectibles/cubie,https://github.com/Cubie-3D-NFT,collectibles,tron
+412,,Darkness Finance,https://dappradar.com/cronos/defi/darkness-finance,https://github.com/darkcryptofinance,defi,cronos
+413,,Double Club,https://dappradar.com/binance-smart-chain/defi/double-club,https://github.com/DoubleClub,defi,binance-smart-chain
+414,,Dreamr,https://dappradar.com/multichain/social/dreamr,https://github.com/dreamrsuntie,social,multichain
+415,,FarmersOnly Layer 2,https://dappradar.com/avalanche/defi/farmersonly-layer-2,https://github.com/farmersonlydefi,defi,avalanche
+416,,FlashLiquidity,https://dappradar.com/polygon/defi/flashliquidity,https://github.com/flashliquidity,defi,polygon
+417,,Fuse Network,https://dappradar.com/ethereum/other/fuse-network,https://github.com/fuseio,other,ethereum
+418,,GameTokenFinance,https://dappradar.com/binance-smart-chain/marketplaces/gametokenfinance,https://github.com/GameTokenFinance,marketplaces,binance-smart-chain
+419,,Gangster Finance,https://dappradar.com/binance-smart-chain/defi/gangster-finance,https://github.com/Gangster-Protocol,defi,binance-smart-chain
+420,,Genesys,https://dappradar.com/binance-smart-chain/defi/genesys,https://github.com/GenesysNetwork/genesys-sc-flattened,defi,binance-smart-chain
+421,,GEOFinance,https://dappradar.com/polygon/defi/geofinance,https://github.com/GeoFinance,defi,polygon
+422,,HodlTree,https://dappradar.com/multichain/defi/hodltree,https://github.com/hodltreeprotocol,defi,multichain
+423,,IdaMurni,https://dappradar.com/polygon/exchanges/idamurni,https://github.com/idamurni,exchanges,polygon
+424,,Instadapp Lite,https://dappradar.com/ethereum/defi/instadapp-lite,https://github.com/Instadapp,defi,ethereum
+425,,KaoyaSwap,https://dappradar.com/binance-smart-chain/defi/kaoyaswap,https://github.com/kaoya1125,defi,binance-smart-chain
+426,,Metavault DAO,https://dappradar.com/multichain/defi/metavault-dao,https://github.com/metavaultorg/,defi,multichain
+427,,NFTX,https://dappradar.com/ethereum/collectibles/nftx,https://github.com/NFTX-project,collectibles,ethereum
+428,,Non-Fungible Soup,https://dappradar.com/ethereum/collectibles/non-fungible-soup,https://github.com/patrn-me/soups-smart-contracts,collectibles,ethereum
+429,,Omni Consumer Protocols,https://dappradar.com/binance-smart-chain/defi/omni-consumer-protocols,https://github.com/omni-corp-protocols,defi,binance-smart-chain
+430,,Pepemon,https://dappradar.com/ethereum/defi/pepemon,https://github.com/pepem00n/,defi,ethereum
+431,,PieDAO,https://dappradar.com/ethereum/defi/piedao,https://github.com/pie-dao,defi,ethereum
+432,,PitSafe Research Tool,https://dappradar.com/binance-smart-chain/defi/pitsafe-research-tool,https://github.com/pitbullBSC,defi,binance-smart-chain
+433,,PixieWorld,https://dappradar.com/iotex/games/pixieworld,https://github.com/pixiesoccer,games,iotex
+434,,PolyGaj Finance,https://dappradar.com/polygon/defi/polygaj-finance,https:/github.com/polygaj,defi,polygon
+435,,PolyWeed Finance,https://dappradar.com/polygon/defi/polyweed-finance,https://github.com/polyweed,defi,polygon
+436,,Predictcoin,https://dappradar.com/binance-smart-chain/defi/predictcoin,https://github.com/predictcoin,defi,binance-smart-chain
+437,,Revoluzion dApp,https://dappradar.com/binance-smart-chain/defi/revoluzion-dapp,https://github.com/RevoluzionToken,defi,binance-smart-chain
+438,,Rocket Pool,https://dappradar.com/ethereum/defi/rocket-pool,https://github.com/rocket-pool,defi,ethereum
+439,,Roketo,https://dappradar.com/near/defi/roketo,https://github.com/roke-to,defi,near
+440,,Safuu Classic,https://dappradar.com/binance-smart-chain/high-risk/safuu-classic,https://github.com/safuuclassic,high-risk,binance-smart-chain
+441,,Sishi Finance,https://dappradar.com/binance-smart-chain/defi/sishi-finance,https://github.com/sishi-finance/,defi,binance-smart-chain
+442,,STASH,https://dappradar.com/avalanche/high-risk/stash,https://github.com/solidproof/projects/tree/main/STASH,high-risk,avalanche
+443,,Supremacy,https://dappradar.com/multichain/games/supremacy,https://github.com/ninja-syndicate/supremacy-contracts-public,games,multichain
+444,,T-Starter,https://dappradar.com/wax/defi/t-starter,https://github.com/T-Starter,defi,wax
+445,,TamaDROID NFT Game,https://dappradar.com/binance-smart-chain/games/tamadroid-nft-game,https://github.com/droidcoin-bsc/droid,games,binance-smart-chain
+446,,TamagoSwap Finance,https://dappradar.com/polygon/defi/tamagoswap-finance,https://github.com/tamagoswap,defi,polygon
+447,,Templar DAO,https://dappradar.com/binance-smart-chain/defi/templar-dao,https://github.com/TemplarDAO,defi,binance-smart-chain
+448,,Tezos Mandala,https://dappradar.com/tezos/marketplaces/tezos-mandala,https://github.com/Timikcool/tezos-mandala,marketplaces,tezos
+449,,TofuSwap,https://dappradar.com/tron/defi/tofuswap,https://github.com/tofudefi,defi,tron
+450,,TokenBB Batch Transfer,https://dappradar.com/multichain/other/tokenbb-batch-transfer,https://github.com/tokenbb-com,other,multichain
+451,,TokenJenny,https://dappradar.com/harmony/defi/tokenjenny,https://github.com/tokenjenny,defi,harmony
+452,,TrustFi,https://dappradar.com/multichain/defi/trustfi,https://github.com/TrustFiNetwork,defi,multichain
+453,,Tteok,https://dappradar.com/klaytn/high-risk/tteok,https://github.com/tteokmill,high-risk,klaytn
+454,,Tulip,https://dappradar.com/oasis/defi/tulip,https://github.com/moneyTulip,defi,oasis
+455,,Xpool,https://dappradar.com/binance-smart-chain/defi/xpool,https://github.com/Xpool-lab,defi,binance-smart-chain
+456,,Yield Yak,https://dappradar.com/avalanche/defi/yield-yak,https://github.com/yieldyak,defi,avalanche
+457,,Zest Protocol,https://dappradar.com/fantom/defi/zest-protocol,https://github.com/ZestProtocol,defi,fantom

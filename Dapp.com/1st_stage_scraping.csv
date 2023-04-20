@@ -1,0 +1,512 @@
+,Name,Link,Category,Blockchain
+0,Metaguardians,/app/metaguardians,Game,Ethereum
+1,Arrakis Finance,/app/arrakis-finance,Finance,Ethereum
+2,Uniswap V3,/app/uniswap-v3,Exchange,Ethereum
+3,Aave Protocol,/app/aave-protocol,Finance,Ethereum
+4,Polygon PoS Bridge,/app/pos-bridge,Utilities,Ethereum
+5,Alpaca Finance,/app/alpaca-finance,Finance,BNB Chain
+6,DODO,/app/dodo,Exchange,Ethereum
+7,Uniswap V2,/app/uniswap-v2,Exchange,Ethereum
+8,PancakeSwap,/app/pancakeswap,Exchange,BNB Chain
+9,Venus Protocol,/app/venus-protocol,Finance,BNB Chain
+10,Compound,/app/Compound,Finance,Ethereum
+11,Curve,/app/curve,Exchange,Ethereum
+12,SushiSwap,/app/sushiswap,Exchange,Ethereum
+13,MetaMask Swap,/app/metamask-swap,Exchange,Ethereum
+14,MakerDAO,/app/makerdao,Finance,Ethereum
+15,X2Y2,/app/x2y2,Marketplace,Ethereum
+16,Biswap,/app/biswap,Exchange,BNB Chain
+17,OpenSea,/app/OpenSea,Marketplace,Ethereum
+18,Router Protocol Polygon,/app/router-protocol-polygon,Utilities,Polygon (Matic)
+19,LooksRare,/app/looksrare,Marketplace,Ethereum
+20,DeFi Saver,/app/defi-saver,Finance,Ethereum
+21,dYdX,/app/dydx,Exchange,Ethereum
+22,Tokenlon,/app/tokenlon,Exchange,Ethereum
+23,ETH 2 Deposit Contract,/app/ethereum-2-0-deposit-contract,Finance,Ethereum
+24,Liquity Protocol,/app/liquityfi,Finance,Ethereum
+25,Shibaswap,/app/shibaswap,Exchange,Ethereum
+26,Across Protocol,/app/across-protocol,Finance,Ethereum
+27,Balancer,/app/balancer,Exchange,Ethereum
+28,1inch Network,/app/1inch-exchange,Exchange,Ethereum
+29,SunSwap,/app/justswap,Exchange,TRON
+30,ACSI Finance,/app/acsi-finance,Exchange,BNB Chain
+31,META FORCE,/app/meta-force,High-risk,Polygon (Matic)
+32,QuickSwap,/app/quickswap,Exchange,Polygon (Matic)
+33,Bancor,/app/Bancor,Exchange,Ethereum
+34,Element Market,/app/element,Marketplace,Ethereum
+35,ForTube BSC,/app/fortube-bsc,Finance,BNB Chain
+36,ApeSwap,/app/apeswap,Exchange,BNB Chain
+37,Enzyme Finance,/app/melon-protocol,Finance,Ethereum
+38,Bogged.Finance Exchange,/app/bogged-finance-exchange,Exchange,BNB Chain
+39,MDEX BSC,/app/mdex-bsc,Exchange,BNB Chain
+40,Atlendis,/app/atlendis,Finance,Polygon (Matic)
+41,DODO,/app/dodo-bsc,Exchange,BNB Chain
+42,Yearn.Finance,/app/yearn-finance,Finance,Ethereum
+43,Wormhole Ethereum ,/app/wormhole,Utilities,Ethereum
+44,CryptoPunks,/app/CryptoPunks,Marketplace,Ethereum
+45,1Inch Network BSC,/app/1inch-exchange-BSC,Exchange,BNB Chain
+46,OpenOcean Polygon,/app/openocean-polygon,Exchange,Polygon (Matic)
+47,Atomex Ethereum,/app/atomex-ethereum,Exchange,Ethereum
+48,Crypto.com DeFi Swap,/app/crypto-com-defi-swap,Exchange,Ethereum
+49,Smoothy BSC,/app/smoothy-bsc,Exchange,BNB Chain
+50,Across Protocol Polygon,/app/across-protocol-polygon,Finance,Polygon (Matic)
+51,Cointool,/app/cointool,Utilities,Ethereum
+52,Zunami Protocol,/app/zunami-protocol,Finance,Ethereum
+53,Solo.top,/app/solo-top,Finance,BNB Chain
+54,AirCash,/app/aircash,Finance,BNB Chain
+55,Harvest Finance,/app/harvest-finance,Finance,Ethereum
+56,Ellipsis,/app/ellipsis,Exchange,BNB Chain
+57,LI.FI,/app/li-fi,Finance,Ethereum
+58,LI.FI BSC,/app/li-fi-bsc,Finance,BNB Chain
+59,NFTfi,/app/nftfi,Finance,Ethereum
+60,Cream Finance,/app/cream-finance-bsc,Finance,BNB Chain
+61,Kolibri Finance,/app/kolibri-finance,Finance,Tezos
+62,Polycat Finance,/app/polycat-finance,Finance,Polygon (Matic)
+63,Overnight.fi,/app/overnight-fi,Finance,Polygon (Matic)
+64,Connext Polygon,/app/connext-polygon,Finance,Polygon (Matic)
+65,POSDuck BSC,/app/posduck-bsc,High-risk,BNB Chain
+66,Foundation,/app/foundation,Marketplace,Ethereum
+67,Alpha Homora,/app/alpha-homora,Finance,Ethereum
+68,Ethereum Name Service,/app/Ethereum-Name-Service,Utilities,Ethereum
+69,Balanced,/app/balanced-dao,Finance,ICON
+70,LI.FI Polygon,/app/li-fi-polygon,Finance,Polygon (Matic)
+71,Connext BSC,/app/connext-bsc,Finance,BNB Chain
+72,POSDuck Polygon,/app/posduck-polygon,High-risk,Polygon (Matic)
+73,EverRise,/app/everrise,Finance,Ethereum
+74,Stake DAO,/app/stake-dao,Finance,Ethereum
+75,Smoothy,/app/smoothy-finance,Exchange,Ethereum
+76,BungeeExchange,/app/bungeeexchange,Finance,Ethereum
+77,Multiplier Finance,/app/multiplier-finance,Finance,BNB Chain
+78,tofuNFT,/app/scv-finance,Marketplace,BNB Chain
+79,Forsage BSC,/app/forsage-bsc,High-risk,BNB Chain
+80,Nerve Finance,/app/nerve,Finance,BNB Chain
+81,Juster,/app/juster,Finance,Tezos
+82,Objkt.com,/app/objkt-com,Marketplace,Tezos
+83,Flexa,/app/flexa,Finance,Ethereum
+84,Dfyn Network,/app/dfyn-network,Exchange,Polygon (Matic)
+85,Element Market BSC,/app/element-bsc,Marketplace,BNB Chain
+86,LocalCryptos,/app/Local-Ethereum,Exchange,Ethereum
+87,Gelato Network,/app/sorbet-finance,Utilities,Polygon (Matic)
+88,XY Finance BNB,/app/xy-finance-bnb,Exchange,BNB Chain
+89,Find Six Dice Game Polygon,/app/find-six-dice-polygon,Gambling,Polygon (Matic)
+90,DeversiFi,/app/DeversiFi,Exchange,Ethereum
+91,Indexed Finance,/app/indexed-finance,Finance,Ethereum
+92,Bogged.Finance Exchange,/app/bogged-finance-polygon,Exchange,Polygon (Matic)
+93,Perpetual Protocol,/app/perpetual-protocol,Exchange,Ethereum
+94,Wormhole Polygon,/app/wormhole-polygon,Utilities,Polygon (Matic)
+95,Tezos Liquidity Baking,/app/tezos-liquidity-baking,Finance,Tezos
+96,KyberSwap,/app/Kyber-Network,Exchange,Ethereum
+97,Metavault.Trade,/app/metavault-trade,Exchange,Polygon (Matic)
+98,Bungee Exchange Polygon,/app/bungee-exchange-polygon,Finance,Polygon (Matic)
+99,Wormhole BSC,/app/wormhole-bsc,Utilities,BNB Chain
+100,ACryptoS,/app/acryptos,Finance,BNB Chain
+101,mStable,/app/mstable,Finance,Ethereum
+102,TTSwap,/app/ttswap,Exchange,ThunderCore
+103,PlotX,/app/plotx,Gambling,Polygon (Matic)
+104,Ren BSC,/app/ren-bsc,Finance,BNB Chain
+105,Allbridge BSC,/app/allbridge-bsc,Finance,BNB Chain
+106,Router Protocol BSC,/app/router-protocol-bsc,Utilities,BNB Chain
+107,Chain Games,/app/chain-games,Game,Polygon (Matic)
+108,Uniswap V1,/app/uniswap,Exchange,Ethereum
+109,UniDexBot,/app/unidexbot,Exchange,Ethereum
+110,DinoBusd,/app/dinobusd,High-risk,BNB Chain
+111,EverRise BSC,/app/everrise-bsc,Finance,BNB Chain
+112,Furio,/app/furio,High-risk,BNB Chain
+113,BarnBridge,/app/barnbridge,Finance,Ethereum
+114,Allbridge ETH,/app/allbridge-eth,Finance,Ethereum
+115,PlayDapp MarketPLAce Polygon,/app/playdapp-marketplace-polygon,Marketplace,Polygon (Matic)
+116,Candle Genie Predictions,/app/candle-genie,Gambling,BNB Chain
+117,Wault Finance,/app/wault-finance,Finance,BNB Chain
+118,BiFi BSC,/app/bifi-bsc,Finance,BNB Chain
+119,NiobFinance,/app/niobfinance,Finance,BNB Chain
+120,PowerPool,/app/powerpool,Finance,Ethereum
+121,KyberSwap BSC,/app/kyberswap-bsc,Exchange,BNB Chain
+122,Nemesis DAO,/app/nemesis-dao,Finance,BNB Chain
+123,Mooniswap,/app/mooniswap,Exchange,Ethereum
+124,JUST,/app/just,Finance,TRON
+125,Ram Protocol,/app/ram-protocol,Finance,ThunderCore
+126,ApeSwap Polygon,/app/apeswap-polygon,Exchange,Polygon (Matic)
+127,Elk Finance BSC,/app/elk-finance-bsc,Exchange,BNB Chain
+128,Router Protocol Ethereum,/app/router-protocol-ethereum,Utilities,Ethereum
+129,XY Finance Polygon,/app/xy-finance-polygon,Exchange,Polygon (Matic)
+130,Acorn Finance,/app/acorn-finance,Exchange,ThunderCore
+131,Julswap,/app/julswap,Exchange,BNB Chain
+132,Planet IX,/app/planet-ix,Game,Polygon (Matic)
+133,LuaSwap,/app/luaswap,Exchange,Ethereum
+134,ThunderCore Bridge,/app/thunderbridge,Exchange,ThunderCore
+135,Core Vault,/app/core-vault,Finance,Ethereum
+136,PRDT Finance Polygon,/app/prdt-finance-polygon,Gambling,Polygon (Matic)
+137,deBridge,/app/debridge,Finance,Ethereum
+138,SCGames,/app/scgames,Gambling,ThunderCore
+139,Degens,/app/degens,Gambling,Ethereum
+140,Typhoon Network,/app/typhoon,Utilities,BNB Chain
+141,APEmove,/app/apemove,Game,BNB Chain
+142,Elk Finance,/app/elk-finance,Exchange,Polygon (Matic)
+143,Atomex Tezos,/app/atomex,Exchange,Tezos
+144,Element Market Polygon,/app/element-market-polygon,Marketplace,Polygon (Matic)
+145,Token BulkSender,/app/token-bulksender-2,Utilities,Ethereum
+146,Nested Polygon,/app/nested-polygon,Finance,Polygon (Matic)
+147,Nested BSC,/app/nested-bsc,Finance,BNB Chain
+148,Libera Financial,/app/libera-financial,High-risk,BNB Chain
+149,Polyflip,/app/polyflip,Gambling,Polygon (Matic)
+150,MetaSoccer,/app/metasoccer,Game,Polygon (Matic)
+151,Pacoca,/app/pacoca,Finance,BNB Chain
+152,DogeBets,/app/dogebets,Gambling,BNB Chain
+153,Dex Finance,/app/dex-finance,Finance,BNB Chain
+154,Mars Ecosystem,/app/mars-ecosystem,Exchange,BNB Chain
+155,Autofarm,/app/autofarm,Finance,BNB Chain
+156,BloctoSwap,/app/bloctoswap,Exchange,Ethereum
+157,Stkr,/app/stkr,Finance,Ethereum
+158,BambooDeFi BCS,/app/bamboodefi-bcs,Finance,BNB Chain
+159,SportX,/app/sportx-2,Gambling,Polygon (Matic)
+160,WePiggy BSC,/app/wepiggy-bsc,Finance,BNB Chain
+161,Spin,/app/spin,Finance,Near Protocol
+162,Fuse Staking,/app/fuse-staking,Finance,Fuse
+163,Counterstake,/app/counterstake,Finance,Ethereum
+164,OpenOcean,/app/openocean-finance,Exchange,Ethereum
+165,Winery,/app/winery,Exchange,BNB Chain
+166,Craft Network,/app/craft-network,Marketplace,ICON
+167,NFTKEY BSC,/app/nftkey-bsc,Marketplace,BNB Chain
+168,Leonicorn Swap,/app/leonicorn-swap,Exchange,BNB Chain
+169,dHEDGE,/app/dhedge,Finance,Ethereum
+170,X World Games,/app/x-world-games,Game,BNB Chain
+171,Arken Finance Polygon,/app/arken-finance-polygon,Exchange,Polygon (Matic)
+172,Beefy Finance,/app/beefy-finance,Finance,BNB Chain
+173,LINKSWAP,/app/linkswap,Exchange,Ethereum
+174,OWL GAMES BSC,/app/owl-games-bsc,Gambling,BNB Chain
+175,NBOX,/app/nbox,Game,BNB Chain
+176,Furucombo,/app/furucombo,Finance,Ethereum
+177,Nexus Mutual,/app/nexus-mutual,Finance,Ethereum
+178,OKX NFT Marketplace BSC,/app/okx-nft-marketplace-bsc,Marketplace,BNB Chain
+179,TT Casino,/app/tt-casino,Gambling,ThunderCore
+180,Taroverse,/app/taroverse,Game,BNB Chain
+181,Bunicorn,/app/bunicorn,Exchange,BNB Chain
+182,Badger DAO,/app/badger-dao,Finance,Ethereum
+183,MinerEarth,/app/minerearth,High-risk,TRON
+184,Tap Fantasy,/app/tap-fantasy,Game,BNB Chain
+185,Delphi,/app/delphi,Finance,Ethereum
+186,Gravis Finance BSC,/app/gravis-finance-bsc,Finance,BNB Chain
+187,Cub Finance,/app/cub-finance,Finance,BNB Chain
+188,ICONbet,/app/iconbet,Gambling,ICON
+189,BNB Miner,/app/bnb-miner,High-risk,BNB Chain
+190,CafeSwap Finance,/app/cafeswap-finance,Exchange,BNB Chain
+191,NFTrade BSC,/app/nftrade-bsc,Marketplace,BNB Chain
+192,CEXISWAP TT,/app/cexiswap-tt,Exchange,ThunderCore
+193,Pancakebunny,/app/pancakebunny,Finance,BNB Chain
+194,Synthetix Exchange,/app/synthetix,Exchange,Ethereum
+195,Alita Finance,/app/alita-finance,Finance,BNB Chain
+196,tofuNFT Polygon,/app/tofunft-polygon,Marketplace,Polygon (Matic)
+197,RUG GAME,/app/rug-game,Gambling,Polygon (Matic)
+198,BNBBETS,/app/bnbbets,Gambling,BNB Chain
+199,Connext Fuse,/app/connext-fuse,Finance,Fuse
+200,Libero Financial,/app/libero-financial,High-risk,BNB Chain
+201,Ambire,/app/adex-network,Utilities,Ethereum
+202,WePiggy,/app/wepiggy,Finance,Ethereum
+203,Swaap Protocol,/app/swaap-protocol,Exchange,Polygon (Matic)
+204,WardenSwap,/app/warden-swap,Exchange,BNB Chain
+205,Dopple Finance,/app/dopple-finance,Exchange,BNB Chain
+206,OKX NFT Marketplace,/app/okx-nft-marketplace,Marketplace,Ethereum
+207,Kalmar,/app/kalmar,Finance,BNB Chain
+208,HiveSlotGames.com,/app/hiveslotgames-com,Gambling,Hive
+209,Nested,/app/nested,Finance,Ethereum
+210,Connext,/app/connext,Finance,Ethereum
+211,SakeSwap,/app/sakeswap,Exchange,Ethereum
+212,Summoners Arena,/app/summoners-arena,Game,BNB Chain
+213,TendieSwap,/app/tendieswap,Finance,BNB Chain
+214,Serious Dice,/app/serious-dice,Gambling,ThunderCore
+215,PoolTogether,/app/pooltogether,Finance,Ethereum
+216,AutoShark,/app/autoshark,Finance,BNB Chain
+217,Biswap Marketplace,/app/biswap-marketplace,Marketplace,BNB Chain
+218,BTCST,/app/btcst,Finance,BNB Chain
+219,Socialswap,/app/socialswap,Exchange,TRON
+220,Gravity Finance,/app/gravity-finance,Finance,Polygon (Matic)
+221,CryptoKitties,/app/CryptoKitties,Game,Ethereum
+222,POPCORN,/app/popcorn,High-risk,BNB Chain
+223,TTRoll,/app/ttroll,Gambling,ThunderCore
+224,LaserSwap,/app/laserswap,Exchange,ThunderCore
+225,Shell Games,/app/shell,Gambling,ThunderCore
+226,SwipeSwap,/app/swipeswap,Exchange,Ethereum
+227,PinkSale,/app/pinksale,Finance,BNB Chain
+228,UpDeFi,/app/updefi,Finance,BNB Chain
+229,OWL GAMES,/app/owl-games,Gambling,Ethereum
+230,Omm,/app/omm,Finance,ICON
+231,Becoswap,/app/becoswap,Exchange,Kardiachain
+232,WONDERMINER BSC,/app/wonderminer-bsc,High-risk,BNB Chain
+233,TT Mining,/app/tt-mining,Finance,ThunderCore
+234,Frax Finance,/app/frax-finance,Finance,Ethereum
+235,AirNFTs,/app/airnfts,Marketplace,BNB Chain
+236,Krystal DeFi BSC,/app/krystal-defi-bsc,Finance,BNB Chain
+237,OtterClam,/app/otterclam,Finance,Polygon (Matic)
+238,XY Finance,/app/xy-finance,Exchange,Ethereum
+239,UniDexBot BSC,/app/unidexbot-bsc,Exchange,BNB Chain
+240,OneSwap,/app/oneswap,Exchange,Ethereum
+241,Luminous,/app/luminous,Gambling,TRON
+242,YouSwap,/app/youswap,Exchange,Ethereum
+243,HoneyBee,/app/honeybee,Finance,BNB Chain
+244,Demex BSC,/app/demex-bsc,Exchange,BNB Chain
+245,Arken Finance ETH,/app/arken-finance-eth,Exchange,Ethereum
+246,Weave,/app/weave,Finance,BNB Chain
+247,StreetSwap,/app/streetswap,Exchange,BNB Chain
+248,MOBOX Platform,/app/mobox-platform,Game,BNB Chain
+249,BeGlobal Finance,/app/beglobal-finance,Exchange,BNB Chain
+250,Hunny Finance,/app/pancake-hunny,Finance,BNB Chain
+251,Unifi Protocol BSC,/app/unifi-protocol-bsc,Finance,BNB Chain
+252,Splinterlands,/app/splinterlands,Game,Hive
+253,888TRON,/app/888TRON,Gambling,TRON
+254,CCSwap BSC,/app/ccswap-bsc,Exchange,BNB Chain
+255,BNB Royal,/app/bnb-royal,High-risk,BNB Chain
+256,Snook,/app/snook,Game,Polygon (Matic)
+257,Blockchain Cuties Universe TRON,/app/blockchain-cuties-tron,Game,TRON
+258,Allbridge Polygon,/app/allbridge-polygon,Finance,Polygon (Matic)
+259,CheeseSwap,/app/cheeseswap,Exchange,BNB Chain
+260,Governance,/app/governance,Utilities,ICON
+261,UniDexBot Polygon,/app/unidexbot-polygon,Exchange,Polygon (Matic)
+262,Kingswap,/app/kingswap,Exchange,Ethereum
+263,Polychain Monsters,/app/polychain-monsters,Marketplace,Ethereum
+264,BabySwap,/app/babyswap,Exchange,BNB Chain
+265,JustMoney.exchange BSC,/app/justmoney-exchange-bsc,Exchange,BNB Chain
+266,Autofarm,/app/autofarm-polygon,Finance,Polygon (Matic)
+267,Aries Financial BSC,/app/aries-financial-bsc,Finance,BNB Chain
+268,BambooDeFi,/app/bamboodefi,Finance,Ethereum
+269,Bomb.Money,/app/bomb-money,Finance,BNB Chain
+270,Liquid Collectibles,/app/liquid-collectibles,Marketplace,BNB Chain
+271,Project Nebula,/app/project-nebula,Game,ICON
+272,SecondLive,/app/secondlive,Game,BNB Chain
+273,Kryptogamers,/app/kryptogamers,Gambling,Hive
+274,SuperWorld,/app/SuperWorld-AR-Real-Estate,Game,Ethereum
+275,OWL GAMES Polygon,/app/owl-games-polygon,Gambling,Polygon (Matic)
+276,TomoPool,/app/tomopool,Finance,TomoChain
+277,Mones,/app/mones,Game,BNB Chain
+278,Unifi Protocol,/app/unifi-protocol-eth,Finance,Ethereum
+279,Flamingo,/app/flamingo,Finance,Neo
+280,Cometh,/app/cometh-matic,Game,Polygon (Matic)
+281,0xBitcoin (MATIC),/app/0xbitcoin-matic,Finance,Polygon (Matic)
+282,Infinity Crypto,/app/infinity-crypto,Exchange,BNB Chain
+283,WOWswap BSC,/app/wowswap-bsc,Exchange,BNB Chain
+284,PolyDEX,/app/polydex,Exchange,Polygon (Matic)
+285,PolkaBridge,/app/polkabridge,Finance,Ethereum
+286,WISE,/app/wise-token,Finance,Ethereum
+287,DNAxCAT,/app/dnaxcat,Game,BNB Chain
+288,Mint Club,/app/mint-club,Social,BNB Chain
+289,Jetswap,/app/jetswap,Exchange,BNB Chain
+290,Gelato Network,/app/gelato-network,Utilities,Ethereum
+291,USwap,/app/uswap,Exchange,TRON
+292,Moonshots Farm,/app/moonshots-farm,Finance,BNB Chain
+293,TomoMaster,/app/tomomaster,Finance,TomoChain
+294,BetSwirl,/app/betswirl,Gambling,Polygon (Matic)
+295,SwipeSwap BSC,/app/swipeswap-bsc,Exchange,BNB Chain
+296,KaoyaSwap,/app/kaoyaswap,Exchange,BNB Chain
+297,YouSwap BSC,/app/youswap-bsc,Exchange,BNB Chain
+298,LeoDex,/app/leodex,Exchange,Hive
+299,Dlease,/app/dlease,Finance,Steem
+300,WePiggy Polygon,/app/wepiggy-polygon,Finance,Polygon (Matic)
+301,DeFi Yield Protocol,/app/defi-yield-protocol,Finance,BNB Chain
+302,Xend Finance,/app/xend-finance,Finance,BNB Chain
+303,EverRise Polygon,/app/everrise-polygon,Finance,Polygon (Matic)
+304,Ren,/app/ren,Finance,Ethereum
+305,ApeRocket,/app/aperocket,Finance,BNB Chain
+306,AnchorSwap,/app/anchorswap,Finance,BNB Chain
+307,BatchTransfer.io,/app/batchtransfer-io,Utilities,Ethereum
+308,KogeFarm,/app/kogefarm,Finance,Polygon (Matic)
+309,Bomb Crypto Marketplace,/app/bomb-crypto-marketplace,Marketplace,BNB Chain
+310,diceplanet,/app/diceplanet,Gambling,ThunderCore
+311,CEXISWAP Polygon,/app/cexiswap-polygon,Exchange,Polygon (Matic)
+312,VEXSWAP,/app/vexswap,Exchange,Vexanium
+313,BetHash,/app/bethash-2,Gambling,TRON
+314,Counterstake BSC,/app/counterstake-bsc,Finance,BNB Chain
+315,TRAMS DEX,/app/trams-dex,Exchange,Ethereum
+316,WardenSwap Polygon,/app/wardenswap-polygon,Exchange,Polygon (Matic)
+317,Borgswap.Exchange,/app/borgswap-exchange,Finance,BNB Chain
+318,ShibaNovaDEX,/app/shibanovadex,Exchange,BNB Chain
+319,HunnyPlay Polygon,/app/hunnyplay-polygon,Gambling,Polygon (Matic)
+320,FuseSwap,/app/fuseswap,Exchange,Fuse
+321,Moolah.bet,/app/moolah-bet,Gambling,TRON
+322,eXode,/app/exode,Game,Hive
+323,TronEnergy.io,/app/tronenergy-io,Utilities,TRON
+324,Orinoco,/app/orinoco,Exchange,Steem
+325,Leverj,/app/leverj,Exchange,Ethereum
+326,JOJO,/app/jojo,Game,BNB Chain
+327,Mysterium Network,/app/mysterium-network,Utilities,Polygon (Matic)
+328,TronLending,/app/tronlendingneng,Utilities,TRON
+329,Pixel Potus,/app/pixel-potus,Marketplace,Tezos
+330,SneakerSn,/app/sneakersn,Game,BNB Chain
+331,Arrakis Finance Polygon,/app/arrakis-finance-polygon,Finance,Polygon (Matic)
+332,DappBuilder,/app/dappbuilder,Utilities,BNB Chain
+333,Mintable.app,/app/mintable,Marketplace,Ethereum
+334,BurgerSwap,/app/burgerswap,Exchange,BNB Chain
+335,DEJAVESWAP,/app/dejaveswap,Exchange,Vexanium
+336,Babylons,/app/babylons,Marketplace,BNB Chain
+337,KyberSwap Polygon,/app/kyberswap-polygon,Exchange,Polygon (Matic)
+338,Candle Genie Polygon,/app/candle-genie-polygon,Gambling,Polygon (Matic)
+339,Twindex,/app/twindex,Exchange,BNB Chain
+340,BAKED BNB,/app/baked-bnb,High-risk,BNB Chain
+341,Rabbit Finance,/app/rabbit-finance,Finance,BNB Chain
+342,InterCrone World TRON,/app/iswap,Exchange,TRON
+343,GhostMarket BSC,/app/ghostmarket,Marketplace,BNB Chain
+344,Bankroll,/app/bankroll,Finance,TRON
+345,Block Rewards,/app/block-rewards,High-risk,BNB Chain
+346,Candle Genie Predictions,/app/candle-genie-thundercore,Gambling,ThunderCore
+347,HunnyPlay BSC,/app/hunnyplay-bsc,Gambling,BNB Chain
+348,Planet Master,/app/planet-master,Gambling,ThunderCore
+349,DexGuard,/app/dexguard,Finance,Ethereum
+350,The Presidents,/app/the-presidents,Game,BNB Chain
+351,GolFinance,/app/golfinance,Exchange,BNB Chain
+352,DELOT.IO,/app/delot-io,Gambling,BNB Chain
+353,Apprentice Of Magic,/app/apprentice-of-magic,Game,Polygon (Matic)
+354,Refinable,/app/refinable,Marketplace,BNB Chain
+355,MoonCryptoPolis,/app/mooncryptopolis,Game,Ethereum
+356,Rise of Elves,/app/rise-of-elves,Game,Polygon (Matic)
+357,Wick Wizard,/app/wick-wizard,Gambling,BNB Chain
+358,Age of Mining,/app/age-of-mining,High-risk,BNB Chain
+359,CCSwap,/app/ccswap,Exchange,Ethereum
+360,Egg Dex,/app/egg-dex,Exchange,ThunderCore
+361,Crypto Multisender BSC,/app/crypto-multisender-bsc,Utilities,BNB Chain
+362,Helmet.insure,/app/helmet-insure,Finance,BNB Chain
+363,Gandhiji,/app/Gandhiji,High-risk,Ethereum
+364,Cask Protocol,/app/cask-protocol,Utilities,Polygon (Matic)
+365,Krystal DeFi Polygon,/app/krystal-defi-polygon,Finance,Polygon (Matic)
+366,Gelato Network BSC,/app/gelato-network-bsc,Utilities,BNB Chain
+367,DungeonSwap,/app/dungeonswap,Game,BNB Chain
+368,Crypto Multisender Polygon,/app/crypto-multisender-polygon,Utilities,Polygon (Matic)
+369,HEX,/app/hex,High-risk,Ethereum
+370,rendangfarm,/app/rendangfarm,Finance,Vexanium
+371,Double Club,/app/double-club,Finance,BNB Chain
+372,AnySwap,/app/anyswap,Exchange,BNB Chain
+373,Afterburner,/app/afterburner,Finance,BNB Chain
+374,NFTrade Polygon,/app/nftrade-polygon,Marketplace,Polygon (Matic)
+375,miime,/app/miime,Marketplace,Ethereum
+376,JustMoney.exchange,/app/justmoney-exchange,Exchange,TRON
+377,HUDDLN,/app/huddln-2,Social,Polygon (Matic)
+378,Blockchain Cuties Polygon,/app/blockchain-cuties-matic,Game,Polygon (Matic)
+379,Nyanswop,/app/nyanswop,Exchange,BNB Chain
+380,Blockvatar,/app/blockvatar,Marketplace,Polygon (Matic)
+381,Zethyr Exchange,/app/zethyr-exchange,Exchange,TRON
+382,XY Finance TT,/app/xy-finance-2,Exchange,ThunderCore
+383,Wolfible,/app/wolfible,Marketplace,BNB Chain
+384,Exon Center,/app/exon-center,Exchange,TRON
+385,Kephi Play,/app/kephi-play,Gambling,Kardiachain
+386,CryptoBlades,/app/cryptoblades,Game,BNB Chain
+387,Cowswap,/app/cowswap,Exchange,BNB Chain
+388,ETHA Lend,/app/etha-lend,Finance,Polygon (Matic)
+389,AuraSwap,/app/auraswap,Exchange,Polygon (Matic)
+390,XP.NETWORK Bridge Polygon,/app/xp-network-bridge-polygon,Utilities,Polygon (Matic)
+391,Bitpie ETH Batch Sender,/app/bitpie-eth-batch-sender,Utilities,Ethereum
+392,InterCrone World BSC,/app/intercrone-world-bsc,Exchange,BNB Chain
+393,Logium,/app/logium,Exchange,Ethereum
+394,Bullhash,/app/bullhash,Gambling,BNB Chain
+395,NFTBlackMarket,/app/nftblackmarket,Marketplace,BNB Chain
+396,Smart Games,/app/smart-games-2,Gambling,BNB Chain
+397,Moonpot,/app/moonpot,Finance,BNB Chain
+398,ChimpySwap,/app/chimpyswap,Exchange,BNB Chain
+399,Jelly Squish,/app/jelly-squish,Game,ThunderCore
+400,Veggies Farm,/app/veggies-farm,Game,Polygon (Matic)
+401,BNB Platinum,/app/bnb-platinum,High-risk,BNB Chain
+402,Gunfire Hero,/app/step-hero,Game,BNB Chain
+403,Plenty,/app/plenty,Exchange,Tezos
+404,DOG BOSS,/app/dog-boss,Exchange,BNB Chain
+405,VEXREX,/app/vexrex,Finance,Vexanium
+406,Soccercrypt,/app/soccercrypt,Gambling,BNB Chain
+407,Galaxy Blocks,/app/galaxy-blocks,Game,ThunderCore
+408,Copycat Finance,/app/copycat-finance,Finance,BNB Chain
+409,0xUniverse,/app/0xuniverse-2,Game,Polygon (Matic)
+410,Polygon PurpyPenguins,/app/polygonpurpypenguins,Marketplace,Polygon (Matic)
+411,Ecency,/app/esteem,Social,Hive
+412,Firebird Finance,/app/firebird-finance,Exchange,Polygon (Matic)
+413,SaladSwap,/app/saladswap,Exchange,Vexanium
+414,SiberianSwap,/app/siberianswap,Exchange,BNB Chain
+415,EpicHero,/app/epichero,Game,BNB Chain
+416,Crypt-Oink Racing Friends,/app/Crypt-Oink,Game,Ethereum
+417,Yield Fields,/app/yield-fields,Exchange,BNB Chain
+418,ZilChill,/app/redchillies,Gambling,Zilliqa
+419,DeHero,/app/dehero,Game,BNB Chain
+420,TronSender,/app/tronsender-2,Utilities,TRON
+421,PolyQuity,/app/polyquity,Finance,Polygon (Matic)
+422,PeakD,/app/peakd,Social,Hive
+423,CashCow Protocol,/app/cashcow-protocol,Game,BNB Chain
+424,SwapMatic,/app/swapmatic,Exchange,Polygon (Matic)
+425,My Crypto Heroes,/app/My-Crypto-Heroes,Game,Ethereum
+426,TT Farm,/app/tt-farm,Finance,ThunderCore
+427,MATIC STABLE,/app/matic-stable,High-risk,Polygon (Matic)
+428,Bourbon DAO,/app/bourbon-dao,Finance,BNB Chain
+429,JustMoney Exchange Polygon,/app/justmoney-exchange-2,Exchange,Polygon (Matic)
+430,DDDX Protocol,/app/dddx-protocol,Exchange,BNB Chain
+431,deBridge BNB,/app/debridge-bnb,Finance,BNB Chain
+432,Math War,/app/math-war,Game,ThunderCore
+433,TRON Token Bulksender,/app/tron-token-bulksender,Utilities,TRON
+434,steemcoinpan,/app/steemcoinpan,Social,Steem
+435,Baked Lasagna BNB,/app/baked-lasagna-bnb,High-risk,BNB Chain
+436,EpicDice,/app/epicdice,Gambling,Steem
+437,Hashmasks,/app/hashmasks,Marketplace,Ethereum
+438,WhaleSwap,/app/whaleswap,Exchange,BNB Chain
+439,PolyZap Farm,/app/polyzap-farm,Exchange,Polygon (Matic)
+440,SateFinance,/app/satefinance,Finance,Vexanium
+441,FarmHero,/app/farmhero,Finance,BNB Chain
+442,TRAFISWAP,/app/trafi,Exchange,Vexanium
+443,UNYDEX,/app/unydex,Exchange,Vexanium
+444,Steem Basic Income,/app/steem-basic-income,Utilities,Steem
+445,Cent,/app/cent,Social,Ethereum
+446,Blockchain Cuties NEO,/app/blockchain-cuties-neo,Game,Neo
+447,Color Craze,/app/color-craze,Game,ThunderCore
+448,smartdex,/app/smartdex,Exchange,Polygon (Matic)
+449,Xpool,/app/xpool,Finance,BNB Chain
+450,Brain Warp,/app/brain-warp,Game,ThunderCore
+451,Unifi Protocol,/app/unifi-protocol-tron,Finance,TRON
+452,Rabona,/app/rabona,Game,Hive
+453,VDICE,/app/vdice-vex,Gambling,Vexanium
+454,Refinable Polygon,/app/refinable-polygon,Marketplace,Polygon (Matic)
+455,Solo.top Polygon,/app/solo-top-polygon,Finance,Polygon (Matic)
+456,Word Search Blitz,/app/word-search-blitz,Game,ThunderCore
+457,Value DeFi BSC,/app/value-defi-bsc,Finance,BNB Chain
+458,MaticRoll,/app/maticroll,Gambling,Polygon (Matic)
+459,Sunflower Farmers,/app/sunflower-farmers,Game,Polygon (Matic)
+460,CervezaBrewery,/app/cervezabrewery,Finance,Tezos
+461,deBridge Polygon,/app/debridge-polygon,Finance,Polygon (Matic)
+462,Venera Swap,/app/venera-swap,Finance,BNB Chain
+463,Lucky Play Thundercore,/app/lucky-play-thundercore,Gambling,ThunderCore
+464,LatteSwap,/app/latteswap,Exchange,BNB Chain
+465,Timeleap Finance,/app/timeleap-finance,Finance,Polygon (Matic)
+466,XP NETWORK Bridge ETH,/app/xp-network-bridge-eth,Utilities,Ethereum
+467,Vex Ecosystem,/app/vex-ecosystem,Utilities,Vexanium
+468,BatchTransfer Polygon,/app/batchtransfer-polygon,Utilities,Polygon (Matic)
+469,Actifit,/app/actifit-hive,Social,Hive
+470,CougarSwap,/app/cougarswap,Finance,BNB Chain
+471,Flappy Machine,/app/flappy-machine,Game,ThunderCore
+472,Jet Fuel,/app/jet-fuel,Finance,BNB Chain
+473,Gale Network,/app/gale-network,High-risk,BNB Chain
+474,EasySwap,/app/easyswap,Finance,BNB Chain
+475,Levenue,/app/levenue,High-risk,BNB Chain
+476,Barter Smartplace,/app/barter-smartplace,Marketplace,BNB Chain
+477,Name Bid Vexanium.com,/app/name-bid-vexanium-com,Utilities,Vexanium
+478,Techno Fun,/app/techno-fun,Game,ThunderCore
+479,VEX RAM Market,/app/vex-ram-market,Utilities,Vexanium
+480,D.Buzz,/app/d-buzz,Social,Hive
+481,Bilpcoin,/app/bilpcoin,Social,Hive
+482,3Speak,/app/3speak,Social,Hive
+483,Dlike,/app/dlike,Social,Steem
+484,Wherein,/app/wherein,Social,Steem
+485,PlayWithHash,/app/playwithhash,Gambling,Vexanium
+486,Holybread,/app/holybread,Game,Hive
+487,CryptoBrewMaster,/app/cryptobrewmaster,Game,Hive
+488,hiveBIT,/app/hivebit,Utilities,Hive
+489,BROsino Poker,/app/brosino-poker,Gambling,Hive
+490,Dominuus,/app/dominuus,Game,Hive
+491,dCrops,/app/dcrops,Game,Hive
+492,VIMM,/app/vimm-tv,Social,Hive
+493,TSLADOGE,/app/tsladoge,High-risk,BNB Chain
+494,Actifit,/app/actifit,Social,Steem
+495,PandoraDEX,/app/pandoradex,Exchange,TRON
+496,USTX DEX,/app/ustx-dex,Finance,TRON
+497,Trade Race Manager,/app/ioi-trade-race-manager,Game,Polygon (Matic)
+498,Ethermon,/app/Ethermon,Game,Ethereum
+499,Decentraland,/app/Decentraland,Game,Ethereum
+500,Axie Infinity,/app/Axie-Infinity,Game,Ethereum
+501,Cryptogs,/app/Cryptogs,Game,Ethereum
+502,Gizer,/app/Gizer,Game,Ethereum
+503,CryptoZombies,/app/CryptoZombies,Utilities,Ethereum
+504,Blockchain Cuties,/app/Blockchain-Cuties,Game,Ethereum
+505,EtherTulips,/app/EtherTulips,Game,Ethereum
+506,CryptoFighters,/app/CryptoFighters,Game,Ethereum
+507,SuperRare,/app/SuperRare,Marketplace,Ethereum
+508,IDEX,/app/IDEX,Exchange,Ethereum
+509,ForkDelta,/app/ForkDelta,Exchange,Ethereum
+510,EtherOnline,/app/EtherOnline,Game,Ethereum
