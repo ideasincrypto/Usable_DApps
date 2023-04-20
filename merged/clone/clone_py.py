@@ -3,6 +3,10 @@ import requests
 import json
 import time
 from git import Repo
+from dotenv.main import load_dotenv
+import os 
+
+load_dotenv()
 
 df = pd.read_csv("../louvain/project_id_mapping.csv")
 
@@ -26,7 +30,7 @@ for ind,row in df2.iterrows():
 print(m2[19])
 
 username = "abhilashdzr"
-token = "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"
+token = os.environ["TOKEN"]
 gh_session = requests.Session()
 gh_session.auth = (username, token)
 
@@ -51,16 +55,13 @@ for i in m2[19]:
             for each in json_response:
                 repo_name = each["name"]
                 clone_url = github_owner+"/"+repo_name+".git"
-                print(clone_url)
                 print(repo_name)
-                print(each["fork"]==True)
                 if each["fork"] is False: 
                   Repo.clone_from(clone_url,f"./2nd_cluster/{m[i]}/{repo_name}")
                   time.sleep(5)
-            exit()
             if 'next' in r.links:
                 page +=1
-                time.sleep(500)
+                time.sleep(5)
             else:
                 page = 1
                 another_page = False
